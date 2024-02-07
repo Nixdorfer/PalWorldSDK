@@ -1,10 +1,11 @@
 /Binaries/
 /Build/
 /DerivedDataCache/
-/Intermediate/
 /Platforms/
 /Saved/
 /Windows/
+
+Intermediate/
 
 *.blend1
 *.blend2

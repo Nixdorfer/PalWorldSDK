@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\modulargameplayactors\\intermediate\\build\\win64\\unrealgame\\inc\\modulargameplayactors\\uht\\modularplayerstate.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\modulargameplayactors\\intermediate\\build\\win64\\unrealgame\\debuggame\\modulargameplayactors\\definitions.modulargameplayactors.h",
+            "d:\\palworldsdk\\plugins\\modulargameplayactors\\source\\modulargameplayactors\\public\\modularplayerstate.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstate.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\playerstate.generated.h",
+            "d:\\palworldsdk\\plugins\\modulargameplayactors\\intermediate\\build\\win64\\unrealgame\\inc\\modulargameplayactors\\uht\\modularplayerstate.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,57 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PPSkyCreatorPlugin.1_of_3.cpp.obj": [
+			"EPPSkyCreatorEditorWeatherType.gen.cpp.obj",
+			"EPPSkyCreatorMoonPositionType.gen.cpp.obj",
+			"EPPSkyCreatorStarMapRotationType.gen.cpp.obj",
+			"EPPSkyCreatorSunPositionType.gen.cpp.obj",
+			"EPPVolumetricCloudNoiseDetailResolution.gen.cpp.obj",
+			"EPPVolumetricCloudNoiseShapeResolution.gen.cpp.obj",
+			"EPPVolumetricCloudRenderTargetMode.gen.cpp.obj",
+			"OnLightningStrikeDelegate2.gen.cpp.obj",
+			"PPCelestialPositionData.gen.cpp.obj",
+			"PPSkyCreator.gen.cpp.obj"
+		],
+		"Module.PPSkyCreatorPlugin.2_of_3.cpp.obj": [
+			"PPSkyCreatorBackgroundCloudSettings.gen.cpp.obj",
+			"PPSkyCreatorExponentialHeightFogSettings.gen.cpp.obj",
+			"PPSkyCreatorFunctionLibrary.gen.cpp.obj",
+			"PPSkyCreatorLightningParameters.gen.cpp.obj",
+			"PPSkyCreatorMoonLightSettings.gen.cpp.obj",
+			"PPSkyCreatorPlugin.init.gen.cpp.obj",
+			"PPSkyCreatorPostProcessSettings.gen.cpp.obj",
+			"PPSkyCreatorSkyAtmosphereSettings.gen.cpp.obj",
+			"PPSkyCreatorSkyLightSettings.gen.cpp.obj",
+			"PPSkyCreatorStarMapSettings.gen.cpp.obj",
+			"PPSkyCreatorSunLightSettings.gen.cpp.obj",
+			"PPSkyCreatorVolumetricCloudSettings.gen.cpp.obj",
+			"PPSkyCreatorWeatherFXSettings.gen.cpp.obj",
+			"PPSkyCreatorWeatherMaterialFXSettings.gen.cpp.obj",
+			"PPSkyCreatorWeatherPreset.gen.cpp.obj"
+		],
+		"Module.PPSkyCreatorPlugin.3_of_3.cpp.obj": [
+			"PPSkyCreatorWeatherSettings.gen.cpp.obj",
+			"PPSkyCreatorWindSettings.gen.cpp.obj",
+			"PPCelestialPositionData.cpp.obj",
+			"PPSkyCreator.cpp.obj",
+			"PPSkyCreatorBackgroundCloudSettings.cpp.obj",
+			"PPSkyCreatorExponentialHeightFogSettings.cpp.obj",
+			"PPSkyCreatorFunctionLibrary.cpp.obj",
+			"PPSkyCreatorLightningParameters.cpp.obj",
+			"PPSkyCreatorMoonLightSettings.cpp.obj",
+			"PPSkyCreatorPluginModule.cpp.obj",
+			"PPSkyCreatorPostProcessSettings.cpp.obj",
+			"PPSkyCreatorSkyAtmosphereSettings.cpp.obj",
+			"PPSkyCreatorSkyLightSettings.cpp.obj",
+			"PPSkyCreatorStarMapSettings.cpp.obj",
+			"PPSkyCreatorSunLightSettings.cpp.obj",
+			"PPSkyCreatorVolumetricCloudSettings.cpp.obj",
+			"PPSkyCreatorWeatherFXSettings.cpp.obj",
+			"PPSkyCreatorWeatherMaterialFXSettings.cpp.obj",
+			"PPSkyCreatorWeatherPreset.cpp.obj",
+			"PPSkyCreatorWeatherSettings.cpp.obj",
+			"PPSkyCreatorWindSettings.cpp.obj"
+		]
+	}
+}

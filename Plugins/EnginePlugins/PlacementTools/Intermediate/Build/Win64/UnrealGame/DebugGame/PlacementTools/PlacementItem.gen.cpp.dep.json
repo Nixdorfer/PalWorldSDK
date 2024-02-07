@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\intermediate\\build\\win64\\unrealgame\\inc\\placementtools\\uht\\placementitem.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\intermediate\\build\\win64\\unrealgame\\debuggame\\placementtools\\definitions.placementtools.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\source\\placementtools\\public\\placementitem.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\source\\placementtools\\public\\eitemtype.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\intermediate\\build\\win64\\unrealgame\\inc\\placementtools\\uht\\eitemtype.generated.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\intermediate\\build\\win64\\unrealgame\\inc\\placementtools\\uht\\placementitem.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

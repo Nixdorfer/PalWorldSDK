@@ -1,0 +1,21 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ImGui.cpp.obj": [
+			"ImGuiCanvasSizeInfo.cpp.obj",
+			"ImGuiDPIScaleInfo.cpp.obj",
+			"ImGuiInputHandler.cpp.obj",
+			"ImGuiKeyInfo.cpp.obj",
+			"ImGuiModule.cpp.obj",
+			"ImGuiSettings.cpp.obj",
+			"EImGuiCanvasSizeType.gen.cpp.obj",
+			"EImGuiDPIScaleMethod.gen.cpp.obj",
+			"ImGui.init.gen.cpp.obj",
+			"ImGuiCanvasSizeInfo.gen.cpp.obj",
+			"ImGuiDPIScaleInfo.gen.cpp.obj",
+			"ImGuiInputHandler.gen.cpp.obj",
+			"ImGuiKeyInfo.gen.cpp.obj",
+			"ImGuiSettings.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\commonuser\\intermediate\\build\\win64\\unrealgame\\inc\\commonuser\\uht\\commonuser.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\commonuser\\intermediate\\build\\win64\\unrealgame\\debuggame\\commonuser\\definitions.commonuser.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

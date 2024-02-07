@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\modulargameplayactors\\intermediate\\build\\win64\\unrealgame\\inc\\modulargameplayactors\\uht\\modulargamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\modulargameplayactors\\intermediate\\build\\win64\\unrealgame\\debuggame\\modulargameplayactors\\definitions.modulargameplayactors.h",
+            "d:\\palworldsdk\\plugins\\modulargameplayactors\\source\\modulargameplayactors\\public\\modulargamemodebase.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\palworldsdk\\plugins\\modulargameplayactors\\intermediate\\build\\win64\\unrealgame\\inc\\modulargameplayactors\\uht\\modulargamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

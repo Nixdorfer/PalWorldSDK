@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\akaudio\\uht\\akwaapiuri.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\debuggame\\akaudio\\definitions.akaudio.h",
+            "d:\\palworldsdk\\plugins\\wwise\\source\\akaudio\\classes\\akwaapiblueprints\\akwaapiuri.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\slate\\public\\widgets\\views\\streeview.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\slate\\public\\widgets\\input\\ssearchbox.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\slate\\public\\widgets\\input\\seditabletextbox.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\slate\\public\\widgets\\input\\seditabletext.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\slate\\public\\widgets\\text\\islateeditabletextwidget.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\textfilter.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\textfilterexpressionevaluator.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\expressionparser.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\textfilterutils.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\ifilter.h",
+            "d:\\palworldsdk\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\akaudio\\uht\\akwaapiuri.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

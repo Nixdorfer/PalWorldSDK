@@ -1,0 +1,35 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\pocketpairuser\\intermediate\\build\\win64\\unrealgame\\inc\\pocketpairuser\\uht\\findsessionsasyncfunction.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\pocketpairuser\\intermediate\\build\\win64\\unrealgame\\debuggame\\pocketpairuser\\definitions.pocketpairuser.h",
+            "d:\\palworldsdk\\plugins\\pocketpairuser\\source\\pocketpairuser\\public\\findsessionsasyncfunction.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintasyncactionbase.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\blueprintasyncactionbase.generated.h",
+            "d:\\palworldsdk\\plugins\\pocketpairuser\\source\\pocketpairuser\\public\\asynccompletedfindsessionsfunctiondelegate.h",
+            "d:\\ue_5.1\\engine\\plugins\\online\\onlinesubsystemutils\\source\\onlinesubsystemutils\\classes\\findsessionscallbackproxy.h",
+            "d:\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesessionsettings.h",
+            "d:\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemtypes.h",
+            "d:\\ue_5.1\\engine\\plugins\\online\\onlinebase\\source\\public\\online\\onlinebase.h",
+            "d:\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemnames.h",
+            "d:\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystempackage.h",
+            "d:\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinekeyvaluepair.h",
+            "d:\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystempackage.h",
+            "d:\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystempackage.h",
+            "d:\\ue_5.1\\engine\\plugins\\online\\onlinebase\\source\\public\\online\\onlinesessionnames.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\engine\\public\\net\\onlineblueprintcallproxybase.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\onlineblueprintcallproxybase.generated.h",
+            "d:\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessioninterface.h",
+            "d:\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinedelegatemacros.h",
+            "d:\\ue_5.1\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinesessiondelegates.h",
+            "d:\\ue_5.1\\engine\\plugins\\online\\onlinesubsystemutils\\intermediate\\build\\win64\\unrealgame\\inc\\onlinesubsystemutils\\uht\\findsessionscallbackproxy.generated.h",
+            "d:\\palworldsdk\\plugins\\pocketpairuser\\intermediate\\build\\win64\\unrealgame\\inc\\pocketpairuser\\uht\\asynccompletedfindsessionsfunctiondelegate.generated.h",
+            "d:\\palworldsdk\\plugins\\pocketpairuser\\intermediate\\build\\win64\\unrealgame\\inc\\pocketpairuser\\uht\\findsessionsasyncfunction.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

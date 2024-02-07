@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\kawaiiphysics\\intermediate\\build\\win64\\unrealgame\\inc\\kawaiiphysics\\uht\\planarlimitdata.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\kawaiiphysics\\intermediate\\build\\win64\\unrealgame\\debuggame\\kawaiiphysics\\definitions.kawaiiphysics.h",
+            "d:\\palworldsdk\\plugins\\kawaiiphysics\\source\\kawaiiphysics\\public\\planarlimitdata.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\optionalfwd.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\palworldsdk\\plugins\\kawaiiphysics\\source\\kawaiiphysics\\public\\collisionlimitdatabase.h",
+            "d:\\palworldsdk\\plugins\\kawaiiphysics\\intermediate\\build\\win64\\unrealgame\\inc\\kawaiiphysics\\uht\\collisionlimitdatabase.generated.h",
+            "d:\\palworldsdk\\plugins\\kawaiiphysics\\intermediate\\build\\win64\\unrealgame\\inc\\kawaiiphysics\\uht\\planarlimitdata.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

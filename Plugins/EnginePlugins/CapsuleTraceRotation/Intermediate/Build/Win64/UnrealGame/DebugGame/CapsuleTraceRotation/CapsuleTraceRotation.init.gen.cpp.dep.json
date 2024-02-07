@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\engineplugins\\capsuletracerotation\\intermediate\\build\\win64\\unrealgame\\inc\\capsuletracerotation\\uht\\capsuletracerotation.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\engineplugins\\capsuletracerotation\\intermediate\\build\\win64\\unrealgame\\debuggame\\capsuletracerotation\\definitions.capsuletracerotation.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

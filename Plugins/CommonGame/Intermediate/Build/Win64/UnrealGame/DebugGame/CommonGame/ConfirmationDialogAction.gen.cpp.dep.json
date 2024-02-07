@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\commongame\\intermediate\\build\\win64\\unrealgame\\inc\\commongame\\uht\\confirmationdialogaction.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\commongame\\intermediate\\build\\win64\\unrealgame\\debuggame\\commongame\\definitions.commongame.h",
+            "d:\\palworldsdk\\plugins\\commongame\\source\\commongame\\public\\confirmationdialogaction.h",
+            "d:\\palworldsdk\\plugins\\commongame\\source\\commongame\\public\\ecommonmessagingresult.h",
+            "d:\\palworldsdk\\plugins\\commongame\\intermediate\\build\\win64\\unrealgame\\inc\\commongame\\uht\\ecommonmessagingresult.generated.h",
+            "d:\\palworldsdk\\plugins\\commongame\\intermediate\\build\\win64\\unrealgame\\inc\\commongame\\uht\\confirmationdialogaction.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

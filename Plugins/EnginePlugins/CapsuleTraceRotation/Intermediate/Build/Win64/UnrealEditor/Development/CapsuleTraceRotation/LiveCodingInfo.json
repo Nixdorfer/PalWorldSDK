@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CapsuleTraceRotation.cpp.obj": [
+			"CapsuleTraceRotation.init.gen.cpp.obj",
+			"TraceUtils.gen.cpp.obj",
+			"CapsuleTraceRotationModule.cpp.obj",
+			"TraceUtils.cpp.obj"
+		]
+	}
+}

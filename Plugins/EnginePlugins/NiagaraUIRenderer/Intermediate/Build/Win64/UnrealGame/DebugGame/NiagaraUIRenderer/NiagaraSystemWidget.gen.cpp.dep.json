@@ -1,0 +1,40 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\engineplugins\\niagarauirenderer\\intermediate\\build\\win64\\unrealgame\\inc\\niagarauirenderer\\uht\\niagarasystemwidget.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\engineplugins\\niagarauirenderer\\intermediate\\build\\win64\\unrealgame\\debuggame\\niagarauirenderer\\definitions.niagarauirenderer.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\niagarauirenderer\\source\\niagarauirenderer\\public\\niagarasystemwidget.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\optionalfwd.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\umg\\public\\components\\widget.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\umg\\public\\fieldnotification\\fieldnotificationdeclaration.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\umg\\public\\fieldnotification\\fieldid.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\umg\\public\\fieldnotification\\fieldvariant.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\umg\\uht\\fieldid.generated.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\umg\\public\\fieldnotification\\iclassdescriptor.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\umg\\public\\fieldnotification\\ifieldvaluechanged.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\umg\\uht\\ifieldvaluechanged.generated.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\umg\\public\\components\\visual.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\umg\\uht\\visual.generated.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\umg\\public\\components\\slatewrappertypes.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\umg\\uht\\slatewrappertypes.generated.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\umg\\public\\slate\\widgettransform.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\umg\\uht\\widgettransform.generated.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\umg\\public\\blueprint\\widgetnavigation.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\slatecore\\public\\types\\navigationmetadata.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\umg\\uht\\widgetnavigation.generated.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\umg\\uht\\widget.generated.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\niagarauirenderer\\intermediate\\build\\win64\\unrealgame\\inc\\niagarauirenderer\\uht\\niagarasystemwidget.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

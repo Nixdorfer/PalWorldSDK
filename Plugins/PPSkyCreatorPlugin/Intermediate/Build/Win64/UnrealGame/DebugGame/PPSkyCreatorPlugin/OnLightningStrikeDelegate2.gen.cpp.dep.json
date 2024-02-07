@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\ppskycreatorplugin\\intermediate\\build\\win64\\unrealgame\\inc\\ppskycreatorplugin\\uht\\onlightningstrikedelegate2.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\ppskycreatorplugin\\intermediate\\build\\win64\\unrealgame\\debuggame\\ppskycreatorplugin\\definitions.ppskycreatorplugin.h",
+            "d:\\palworldsdk\\plugins\\ppskycreatorplugin\\source\\ppskycreatorplugin\\public\\onlightningstrikedelegate2.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\optionalfwd.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\palworldsdk\\plugins\\ppskycreatorplugin\\intermediate\\build\\win64\\unrealgame\\inc\\ppskycreatorplugin\\uht\\onlightningstrikedelegate2.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

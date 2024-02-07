@@ -1,0 +1,82 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/GeneratedCppIncludes.h"
+#include "SkyCreatorPlugin/Public/ESkyCreatorEditorWeatherType.h"
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+void EmptyLinkFunctionForGeneratedCodeESkyCreatorEditorWeatherType() {}
+// Cross Module References
+	SKYCREATORPLUGIN_API UEnum* Z_Construct_UEnum_SkyCreatorPlugin_ESkyCreatorEditorWeatherType();
+	UPackage* Z_Construct_UPackage__Script_SkyCreatorPlugin();
+// End Cross Module References
+	static FEnumRegistrationInfo Z_Registration_Info_UEnum_ESkyCreatorEditorWeatherType;
+	static UEnum* ESkyCreatorEditorWeatherType_StaticEnum()
+	{
+		if (!Z_Registration_Info_UEnum_ESkyCreatorEditorWeatherType.OuterSingleton)
+		{
+			Z_Registration_Info_UEnum_ESkyCreatorEditorWeatherType.OuterSingleton = GetStaticEnum(Z_Construct_UEnum_SkyCreatorPlugin_ESkyCreatorEditorWeatherType, Z_Construct_UPackage__Script_SkyCreatorPlugin(), TEXT("ESkyCreatorEditorWeatherType"));
+		}
+		return Z_Registration_Info_UEnum_ESkyCreatorEditorWeatherType.OuterSingleton;
+	}
+	template<> SKYCREATORPLUGIN_API UEnum* StaticEnum<ESkyCreatorEditorWeatherType>()
+	{
+		return ESkyCreatorEditorWeatherType_StaticEnum();
+	}
+	struct Z_Construct_UEnum_SkyCreatorPlugin_ESkyCreatorEditorWeatherType_Statics
+	{
+		static const UECodeGen_Private::FEnumeratorParam Enumerators[];
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam Enum_MetaDataParams[];
+#endif
+		static const UECodeGen_Private::FEnumParams EnumParams;
+	};
+	const UECodeGen_Private::FEnumeratorParam Z_Construct_UEnum_SkyCreatorPlugin_ESkyCreatorEditorWeatherType_Statics::Enumerators[] = {
+		{ "EditorWeather_WeatherPreset", (int64)EditorWeather_WeatherPreset },
+		{ "EditorWeather_WeatherSettings", (int64)EditorWeather_WeatherSettings },
+		{ "EditorWeather_MAX", (int64)EditorWeather_MAX },
+	};
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UEnum_SkyCreatorPlugin_ESkyCreatorEditorWeatherType_Statics::Enum_MetaDataParams[] = {
+		{ "BlueprintType", "true" },
+		{ "EditorWeather_MAX.Hidden", "" },
+		{ "EditorWeather_MAX.Name", "EditorWeather_MAX" },
+		{ "EditorWeather_WeatherPreset.Name", "EditorWeather_WeatherPreset" },
+		{ "EditorWeather_WeatherSettings.Name", "EditorWeather_WeatherSettings" },
+		{ "ModuleRelativePath", "Public/ESkyCreatorEditorWeatherType.h" },
+	};
+#endif
+	const UECodeGen_Private::FEnumParams Z_Construct_UEnum_SkyCreatorPlugin_ESkyCreatorEditorWeatherType_Statics::EnumParams = {
+		(UObject*(*)())Z_Construct_UPackage__Script_SkyCreatorPlugin,
+		nullptr,
+		"ESkyCreatorEditorWeatherType",
+		"ESkyCreatorEditorWeatherType",
+		Z_Construct_UEnum_SkyCreatorPlugin_ESkyCreatorEditorWeatherType_Statics::Enumerators,
+		UE_ARRAY_COUNT(Z_Construct_UEnum_SkyCreatorPlugin_ESkyCreatorEditorWeatherType_Statics::Enumerators),
+		RF_Public|RF_Transient|RF_MarkAsNative,
+		EEnumFlags::None,
+		(uint8)UEnum::ECppForm::Regular,
+		METADATA_PARAMS(Z_Construct_UEnum_SkyCreatorPlugin_ESkyCreatorEditorWeatherType_Statics::Enum_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UEnum_SkyCreatorPlugin_ESkyCreatorEditorWeatherType_Statics::Enum_MetaDataParams))
+	};
+	UEnum* Z_Construct_UEnum_SkyCreatorPlugin_ESkyCreatorEditorWeatherType()
+	{
+		if (!Z_Registration_Info_UEnum_ESkyCreatorEditorWeatherType.InnerSingleton)
+		{
+			UECodeGen_Private::ConstructUEnum(Z_Registration_Info_UEnum_ESkyCreatorEditorWeatherType.InnerSingleton, Z_Construct_UEnum_SkyCreatorPlugin_ESkyCreatorEditorWeatherType_Statics::EnumParams);
+		}
+		return Z_Registration_Info_UEnum_ESkyCreatorEditorWeatherType.InnerSingleton;
+	}
+	struct Z_CompiledInDeferFile_FID_PalWorldSDK_Plugins_EnginePlugins_SkyCreatorPlugin_Source_SkyCreatorPlugin_Public_ESkyCreatorEditorWeatherType_h_Statics
+	{
+		static const FEnumRegisterCompiledInInfo EnumInfo[];
+	};
+	const FEnumRegisterCompiledInInfo Z_CompiledInDeferFile_FID_PalWorldSDK_Plugins_EnginePlugins_SkyCreatorPlugin_Source_SkyCreatorPlugin_Public_ESkyCreatorEditorWeatherType_h_Statics::EnumInfo[] = {
+		{ ESkyCreatorEditorWeatherType_StaticEnum, TEXT("ESkyCreatorEditorWeatherType"), &Z_Registration_Info_UEnum_ESkyCreatorEditorWeatherType, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 68285425U) },
+	};
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_PalWorldSDK_Plugins_EnginePlugins_SkyCreatorPlugin_Source_SkyCreatorPlugin_Public_ESkyCreatorEditorWeatherType_h_3999369888(TEXT("/Script/SkyCreatorPlugin"),
+		nullptr, 0,
+		nullptr, 0,
+		Z_CompiledInDeferFile_FID_PalWorldSDK_Plugins_EnginePlugins_SkyCreatorPlugin_Source_SkyCreatorPlugin_Public_ESkyCreatorEditorWeatherType_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_PalWorldSDK_Plugins_EnginePlugins_SkyCreatorPlugin_Source_SkyCreatorPlugin_Public_ESkyCreatorEditorWeatherType_h_Statics::EnumInfo));
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

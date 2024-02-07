@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\pocketpairuser\\intermediate\\build\\win64\\unrealgame\\inc\\pocketpairuser\\uht\\joinsessionasyncfunction.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\pocketpairuser\\intermediate\\build\\win64\\unrealgame\\debuggame\\pocketpairuser\\definitions.pocketpairuser.h",
+            "d:\\palworldsdk\\plugins\\pocketpairuser\\source\\pocketpairuser\\public\\joinsessionasyncfunction.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintasyncactionbase.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\blueprintasyncactionbase.generated.h",
+            "d:\\palworldsdk\\plugins\\pocketpairuser\\source\\pocketpairuser\\public\\asynccompletedjoinsessionfunctiondelegate.h",
+            "d:\\palworldsdk\\plugins\\pocketpairuser\\source\\pocketpairuser\\public\\joinsessionresulttype.h",
+            "d:\\palworldsdk\\plugins\\pocketpairuser\\intermediate\\build\\win64\\unrealgame\\inc\\pocketpairuser\\uht\\joinsessionresulttype.generated.h",
+            "d:\\palworldsdk\\plugins\\pocketpairuser\\intermediate\\build\\win64\\unrealgame\\inc\\pocketpairuser\\uht\\asynccompletedjoinsessionfunctiondelegate.generated.h",
+            "d:\\palworldsdk\\plugins\\pocketpairuser\\intermediate\\build\\win64\\unrealgame\\inc\\pocketpairuser\\uht\\joinsessionasyncfunction.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

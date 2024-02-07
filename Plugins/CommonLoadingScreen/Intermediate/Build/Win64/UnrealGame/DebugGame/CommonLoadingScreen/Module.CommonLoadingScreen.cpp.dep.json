@@ -1,0 +1,34 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealgame\\debuggame\\commonloadingscreen\\module.commonloadingscreen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealgame\\debuggame\\commonloadingscreen\\definitions.commonloadingscreen.h",
+            "d:\\palworldsdk\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\private\\commonloadingscreenmodule.cpp",
+            "d:\\palworldsdk\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\private\\commonloadingscreensettings.cpp",
+            "d:\\palworldsdk\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\public\\commonloadingscreensettings.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\optionalfwd.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\developersettings\\public\\engine\\developersettingsbackedbycvars.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\developersettings\\uht\\developersettingsbackedbycvars.generated.h",
+            "d:\\palworldsdk\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealgame\\inc\\commonloadingscreen\\uht\\commonloadingscreensettings.generated.h",
+            "d:\\palworldsdk\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\private\\loadingprocesstask.cpp",
+            "d:\\palworldsdk\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\public\\loadingprocesstask.h",
+            "d:\\palworldsdk\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\public\\loadingprocessinterface.h",
+            "d:\\palworldsdk\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealgame\\inc\\commonloadingscreen\\uht\\loadingprocessinterface.generated.h",
+            "d:\\palworldsdk\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealgame\\inc\\commonloadingscreen\\uht\\loadingprocesstask.generated.h",
+            "d:\\palworldsdk\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\private\\loadingscreenmanager.cpp",
+            "d:\\palworldsdk\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\public\\loadingscreenmanager.h",
+            "d:\\palworldsdk\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealgame\\inc\\commonloadingscreen\\uht\\loadingscreenmanager.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

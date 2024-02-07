@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PPSkyCreatorPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\PalWorldSDK\Intermediate\Build\Win64\PalEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\PalWorldSDK\Plugins\PPSkyCreatorPlugin\Intermediate\Build\Win64\UnrealEditor\Development\PPSkyCreatorPlugin\Module.PPSkyCreatorPlugin.1_of_3.cpp.obj"
+"D:\PalWorldSDK\Plugins\PPSkyCreatorPlugin\Intermediate\Build\Win64\UnrealEditor\Development\PPSkyCreatorPlugin\Module.PPSkyCreatorPlugin.2_of_3.cpp.obj"
+"D:\PalWorldSDK\Plugins\PPSkyCreatorPlugin\Intermediate\Build\Win64\UnrealEditor\Development\PPSkyCreatorPlugin\Module.PPSkyCreatorPlugin.3_of_3.cpp.obj"
+"D:\PalWorldSDK\Plugins\PPSkyCreatorPlugin\Intermediate\Build\Win64\UnrealEditor\Development\PPSkyCreatorPlugin\Default.rc2.res"
+/OUT:"D:\PalWorldSDK\Plugins\PPSkyCreatorPlugin\Intermediate\Build\Win64\UnrealEditor\Development\PPSkyCreatorPlugin\UnrealEditor-PPSkyCreatorPlugin.lib"

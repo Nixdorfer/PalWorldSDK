@@ -1,0 +1,36 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.KawaiiPhysics.cpp.obj": [
+			"AnimNode_KawaiiPhysics.cpp.obj",
+			"CapsuleLimit.cpp.obj",
+			"CapsuleLimitData.cpp.obj",
+			"CollisionLimitBase.cpp.obj",
+			"CollisionLimitDataBase.cpp.obj",
+			"KawaiiPhysicsLimitsDataAsset.cpp.obj",
+			"KawaiiPhysicsModifyBone.cpp.obj",
+			"KawaiiPhysicsModule.cpp.obj",
+			"KawaiiPhysicsSettings.cpp.obj",
+			"PlanarLimit.cpp.obj",
+			"PlanarLimitData.cpp.obj",
+			"SphericalLimit.cpp.obj",
+			"SphericalLimitData.cpp.obj",
+			"AnimNode_KawaiiPhysics.gen.cpp.obj",
+			"CapsuleLimit.gen.cpp.obj",
+			"CapsuleLimitData.gen.cpp.obj",
+			"CollisionLimitBase.gen.cpp.obj",
+			"CollisionLimitDataBase.gen.cpp.obj",
+			"EBoneForwardAxis.gen.cpp.obj",
+			"ECollisionLimitType.gen.cpp.obj",
+			"EPlanarConstraint.gen.cpp.obj",
+			"KawaiiPhysics.init.gen.cpp.obj",
+			"KawaiiPhysicsLimitsDataAsset.gen.cpp.obj",
+			"KawaiiPhysicsModifyBone.gen.cpp.obj",
+			"KawaiiPhysicsSettings.gen.cpp.obj",
+			"PlanarLimit.gen.cpp.obj",
+			"PlanarLimitData.gen.cpp.obj",
+			"SphericalLimit.gen.cpp.obj",
+			"SphericalLimitData.gen.cpp.obj"
+		]
+	}
+}

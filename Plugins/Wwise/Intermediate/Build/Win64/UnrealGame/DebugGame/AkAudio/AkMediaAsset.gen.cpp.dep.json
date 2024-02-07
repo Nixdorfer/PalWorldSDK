@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\akaudio\\uht\\akmediaasset.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\debuggame\\akaudio\\definitions.akaudio.h",
+            "d:\\palworldsdk\\plugins\\wwise\\source\\akaudio\\classes\\akmediaasset.h",
+            "d:\\palworldsdk\\plugins\\wwise\\source\\akaudio\\classes\\akuefeatures.h",
+            "d:\\palworldsdk\\plugins\\wwise\\thirdparty\\include\\ak\\akwwisesdkversion.h",
+            "d:\\palworldsdk\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\akaudio\\uht\\akmediaasset.generated.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\serialization\\archiveuobjectfromstructuredarchive.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

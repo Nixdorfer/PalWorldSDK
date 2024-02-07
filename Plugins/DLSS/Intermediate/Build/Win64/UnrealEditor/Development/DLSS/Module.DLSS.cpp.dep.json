@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\dlss\\intermediate\\build\\win64\\unrealeditor\\development\\dlss\\module.dlss.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\paleditor\\development\\engine\\sharedpch.engine.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\dlss\\intermediate\\build\\win64\\unrealeditor\\development\\dlss\\definitions.dlss.h",
+            "d:\\palworldsdk\\plugins\\dlss\\intermediate\\build\\win64\\unrealeditor\\inc\\dlss\\uht\\dlss.init.gen.cpp",
+            "d:\\palworldsdk\\plugins\\dlss\\intermediate\\build\\win64\\unrealeditor\\inc\\dlss\\uht\\dlssoverridesettings.gen.cpp",
+            "d:\\palworldsdk\\plugins\\dlss\\source\\dlss\\public\\dlssoverridesettings.h",
+            "d:\\palworldsdk\\plugins\\dlss\\source\\dlss\\public\\edlsssettingoverride.h",
+            "d:\\palworldsdk\\plugins\\dlss\\intermediate\\build\\win64\\unrealeditor\\inc\\dlss\\uht\\edlsssettingoverride.generated.h",
+            "d:\\palworldsdk\\plugins\\dlss\\intermediate\\build\\win64\\unrealeditor\\inc\\dlss\\uht\\dlssoverridesettings.generated.h",
+            "d:\\palworldsdk\\plugins\\dlss\\intermediate\\build\\win64\\unrealeditor\\inc\\dlss\\uht\\dlsssettings.gen.cpp",
+            "d:\\palworldsdk\\plugins\\dlss\\source\\dlss\\public\\dlsssettings.h",
+            "d:\\palworldsdk\\plugins\\dlss\\source\\dlss\\public\\edlsspreset.h",
+            "d:\\palworldsdk\\plugins\\dlss\\intermediate\\build\\win64\\unrealeditor\\inc\\dlss\\uht\\edlsspreset.generated.h",
+            "d:\\palworldsdk\\plugins\\dlss\\intermediate\\build\\win64\\unrealeditor\\inc\\dlss\\uht\\dlsssettings.generated.h",
+            "d:\\palworldsdk\\plugins\\dlss\\intermediate\\build\\win64\\unrealeditor\\inc\\dlss\\uht\\edlsspreset.gen.cpp",
+            "d:\\palworldsdk\\plugins\\dlss\\intermediate\\build\\win64\\unrealeditor\\inc\\dlss\\uht\\edlsssettingoverride.gen.cpp",
+            "d:\\palworldsdk\\plugins\\dlss\\source\\dlss\\private\\dlssmodule.cpp",
+            "d:\\palworldsdk\\plugins\\dlss\\source\\dlss\\private\\dlssoverridesettings.cpp",
+            "d:\\palworldsdk\\plugins\\dlss\\source\\dlss\\private\\dlsssettings.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

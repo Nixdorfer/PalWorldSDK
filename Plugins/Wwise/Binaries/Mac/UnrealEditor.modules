@@ -1,0 +1,9 @@
+{
+	"BuildId": "19505902",
+	"Modules": 
+	{
+		"AkAudio": "UnrealEditor-AkAudio.dylib",
+		"AkAudioMixer": "UnrealEditor-AkAudioMixer.dylib",
+		"AudiokineticTools": "UnrealEditor-AudiokineticTools.dylib"
+	}
+}

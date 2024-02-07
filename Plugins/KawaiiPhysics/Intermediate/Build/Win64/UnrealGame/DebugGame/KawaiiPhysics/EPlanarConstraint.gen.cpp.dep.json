@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\kawaiiphysics\\intermediate\\build\\win64\\unrealgame\\inc\\kawaiiphysics\\uht\\eplanarconstraint.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\kawaiiphysics\\intermediate\\build\\win64\\unrealgame\\debuggame\\kawaiiphysics\\definitions.kawaiiphysics.h",
+            "d:\\palworldsdk\\plugins\\kawaiiphysics\\source\\kawaiiphysics\\public\\eplanarconstraint.h",
+            "d:\\palworldsdk\\plugins\\kawaiiphysics\\intermediate\\build\\win64\\unrealgame\\inc\\kawaiiphysics\\uht\\eplanarconstraint.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

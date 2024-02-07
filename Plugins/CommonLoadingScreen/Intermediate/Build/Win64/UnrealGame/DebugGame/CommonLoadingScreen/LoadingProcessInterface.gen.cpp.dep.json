@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealgame\\inc\\commonloadingscreen\\uht\\loadingprocessinterface.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealgame\\debuggame\\commonloadingscreen\\definitions.commonloadingscreen.h",
+            "d:\\palworldsdk\\plugins\\commonloadingscreen\\source\\commonloadingscreen\\public\\loadingprocessinterface.h",
+            "d:\\palworldsdk\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\unrealgame\\inc\\commonloadingscreen\\uht\\loadingprocessinterface.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

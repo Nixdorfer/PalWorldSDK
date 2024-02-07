@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\debuggame\\akaudio\\module.akaudio.1_of_4.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\debuggame\\akaudio\\definitions.akaudio.h",
+            "d:\\palworldsdk\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\akaudio\\uht\\wwiseitemtype.gen.cpp",
+            "d:\\palworldsdk\\plugins\\wwise\\source\\akaudio\\classes\\wwiseitemtype.h",
+            "d:\\palworldsdk\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\akaudio\\uht\\wwiseitemtype.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

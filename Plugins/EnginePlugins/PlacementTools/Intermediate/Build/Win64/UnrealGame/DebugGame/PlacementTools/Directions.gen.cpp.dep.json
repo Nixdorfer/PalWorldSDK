@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\intermediate\\build\\win64\\unrealgame\\inc\\placementtools\\uht\\directions.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\intermediate\\build\\win64\\unrealgame\\debuggame\\placementtools\\definitions.placementtools.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\source\\placementtools\\public\\directions.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\intermediate\\build\\win64\\unrealgame\\inc\\placementtools\\uht\\directions.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

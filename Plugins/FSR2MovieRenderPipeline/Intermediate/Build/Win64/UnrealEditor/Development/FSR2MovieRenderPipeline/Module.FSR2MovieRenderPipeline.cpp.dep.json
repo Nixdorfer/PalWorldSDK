@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\fsr2movierenderpipeline\\intermediate\\build\\win64\\unrealeditor\\development\\fsr2movierenderpipeline\\module.fsr2movierenderpipeline.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\paleditor\\development\\engine\\sharedpch.engine.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\fsr2movierenderpipeline\\intermediate\\build\\win64\\unrealeditor\\development\\fsr2movierenderpipeline\\definitions.fsr2movierenderpipeline.h",
+            "d:\\palworldsdk\\plugins\\fsr2movierenderpipeline\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2movierenderpipeline\\uht\\efsr2moviepipelinequality.gen.cpp",
+            "d:\\palworldsdk\\plugins\\fsr2movierenderpipeline\\source\\fsr2movierenderpipeline\\public\\efsr2moviepipelinequality.h",
+            "d:\\palworldsdk\\plugins\\fsr2movierenderpipeline\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2movierenderpipeline\\uht\\efsr2moviepipelinequality.generated.h",
+            "d:\\palworldsdk\\plugins\\fsr2movierenderpipeline\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2movierenderpipeline\\uht\\fsr2moviepipelinesettings.gen.cpp",
+            "d:\\palworldsdk\\plugins\\fsr2movierenderpipeline\\source\\fsr2movierenderpipeline\\public\\fsr2moviepipelinesettings.h",
+            "d:\\ue_5.1\\engine\\plugins\\moviescene\\movierenderpipeline\\source\\movierenderpipelinecore\\public\\moviepipelineviewfamilysetting.h",
+            "d:\\ue_5.1\\engine\\plugins\\moviescene\\movierenderpipeline\\source\\movierenderpipelinecore\\public\\moviepipelinesetting.h",
+            "d:\\ue_5.1\\engine\\plugins\\moviescene\\movierenderpipeline\\intermediate\\build\\win64\\unrealeditor\\inc\\movierenderpipelinecore\\uht\\moviepipelinesetting.generated.h",
+            "d:\\ue_5.1\\engine\\plugins\\moviescene\\movierenderpipeline\\intermediate\\build\\win64\\unrealeditor\\inc\\movierenderpipelinecore\\uht\\moviepipelineviewfamilysetting.generated.h",
+            "d:\\palworldsdk\\plugins\\fsr2movierenderpipeline\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2movierenderpipeline\\uht\\fsr2moviepipelinesettings.generated.h",
+            "d:\\palworldsdk\\plugins\\fsr2movierenderpipeline\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2movierenderpipeline\\uht\\fsr2movierenderpipeline.init.gen.cpp",
+            "d:\\palworldsdk\\plugins\\fsr2movierenderpipeline\\source\\fsr2movierenderpipeline\\private\\fsr2moviepipelinesettings.cpp",
+            "d:\\palworldsdk\\plugins\\fsr2movierenderpipeline\\source\\fsr2movierenderpipeline\\private\\fsr2movierenderpipelinemodule.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

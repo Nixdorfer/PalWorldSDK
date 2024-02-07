@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\ppskycreatorplugin\\intermediate\\build\\win64\\unrealgame\\inc\\ppskycreatorplugin\\uht\\ppskycreatorwindsettings.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\ppskycreatorplugin\\intermediate\\build\\win64\\unrealgame\\debuggame\\ppskycreatorplugin\\definitions.ppskycreatorplugin.h",
+            "d:\\palworldsdk\\plugins\\ppskycreatorplugin\\source\\ppskycreatorplugin\\public\\ppskycreatorwindsettings.h",
+            "d:\\palworldsdk\\plugins\\ppskycreatorplugin\\intermediate\\build\\win64\\unrealgame\\inc\\ppskycreatorplugin\\uht\\ppskycreatorwindsettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

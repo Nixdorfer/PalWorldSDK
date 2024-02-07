@@ -1,0 +1,55 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SkyCreatorPlugin.1_of_2.cpp.obj": [
+			"CelestialPositionData.cpp.obj",
+			"CelestialPositionData.gen.cpp.obj",
+			"ESkyCreatorEditorWeatherType.gen.cpp.obj",
+			"ESkyCreatorMoonPositionType.gen.cpp.obj",
+			"ESkyCreatorStarMapRotationType.gen.cpp.obj",
+			"ESkyCreatorSunPositionType.gen.cpp.obj",
+			"EVolumetricCloudNoiseDetailResolution.gen.cpp.obj",
+			"EVolumetricCloudNoiseShapeResolution.gen.cpp.obj",
+			"EVolumetricCloudRenderTargetMode.gen.cpp.obj",
+			"OnLightningStrikeDelegate.gen.cpp.obj",
+			"SkyCreator.gen.cpp.obj",
+			"SkyCreatorBackgroundCloudSettings.gen.cpp.obj",
+			"SkyCreatorExponentialHeightFogSettings.gen.cpp.obj",
+			"SkyCreatorFunctionLibrary.gen.cpp.obj",
+			"SkyCreatorLightningParameters.gen.cpp.obj",
+			"SkyCreatorMoonLightSettings.gen.cpp.obj",
+			"SkyCreatorPlugin.init.gen.cpp.obj",
+			"SkyCreatorPostProcessSettings.gen.cpp.obj",
+			"SkyCreatorSkyAtmosphereSettings.gen.cpp.obj",
+			"SkyCreatorSkyLightSettings.gen.cpp.obj",
+			"SkyCreatorStarMapSettings.gen.cpp.obj",
+			"SkyCreatorSunLightSettings.gen.cpp.obj",
+			"SkyCreatorVolumetricCloudSettings.gen.cpp.obj",
+			"SkyCreatorWeatherFXSettings.gen.cpp.obj",
+			"SkyCreatorWeatherMaterialFXSettings.gen.cpp.obj",
+			"SkyCreatorWeatherPreset.gen.cpp.obj",
+			"SkyCreatorWeatherSettings.gen.cpp.obj",
+			"SkyCreatorWindSettings.gen.cpp.obj"
+		],
+		"Module.SkyCreatorPlugin.2_of_2.cpp.obj": [
+			"SkyCreator.cpp.obj",
+			"SkyCreatorBackgroundCloudSettings.cpp.obj",
+			"SkyCreatorExponentialHeightFogSettings.cpp.obj",
+			"SkyCreatorFunctionLibrary.cpp.obj",
+			"SkyCreatorLightningParameters.cpp.obj",
+			"SkyCreatorMoonLightSettings.cpp.obj",
+			"SkyCreatorPluginModule.cpp.obj",
+			"SkyCreatorPostProcessSettings.cpp.obj",
+			"SkyCreatorSkyAtmosphereSettings.cpp.obj",
+			"SkyCreatorSkyLightSettings.cpp.obj",
+			"SkyCreatorStarMapSettings.cpp.obj",
+			"SkyCreatorSunLightSettings.cpp.obj",
+			"SkyCreatorVolumetricCloudSettings.cpp.obj",
+			"SkyCreatorWeatherFXSettings.cpp.obj",
+			"SkyCreatorWeatherMaterialFXSettings.cpp.obj",
+			"SkyCreatorWeatherPreset.cpp.obj",
+			"SkyCreatorWeatherSettings.cpp.obj",
+			"SkyCreatorWindSettings.cpp.obj"
+		]
+	}
+}

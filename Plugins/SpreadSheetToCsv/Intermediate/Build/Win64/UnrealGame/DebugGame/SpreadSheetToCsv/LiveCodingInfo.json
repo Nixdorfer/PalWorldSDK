@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SpreadSheetToCsv.cpp.obj": [
+			"SpreadSheetImpoter.cpp.obj",
+			"SpreadSheetToCsvModule.cpp.obj",
+			"SpreadSheetUtility.cpp.obj",
+			"EFetchResult.gen.cpp.obj",
+			"OnGetResultDelegate.gen.cpp.obj",
+			"OutputErrorDelegateDelegate.gen.cpp.obj",
+			"SpreadSheetImpoter.gen.cpp.obj",
+			"SpreadSheetToCsv.init.gen.cpp.obj",
+			"SpreadSheetUtility.gen.cpp.obj"
+		]
+	}
+}

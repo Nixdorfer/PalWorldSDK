@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NiagaraUIRenderer.cpp.obj": [
+			"NiagaraSystemWidget.gen.cpp.obj",
+			"NiagaraUIActor.gen.cpp.obj",
+			"NiagaraUIComponent.gen.cpp.obj",
+			"NiagaraUIRenderer.init.gen.cpp.obj",
+			"NiagaraSystemWidget.cpp.obj",
+			"NiagaraUIActor.cpp.obj",
+			"NiagaraUIComponent.cpp.obj",
+			"NiagaraUIRendererModule.cpp.obj"
+		]
+	}
+}

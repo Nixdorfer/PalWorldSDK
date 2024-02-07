@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\dlss\\intermediate\\build\\win64\\unrealgame\\inc\\dlssblueprint\\uht\\udlssmode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\dlss\\intermediate\\build\\win64\\unrealgame\\debuggame\\dlssblueprint\\definitions.dlssblueprint.h",
+            "d:\\palworldsdk\\plugins\\dlss\\source\\dlssblueprint\\public\\udlssmode.h",
+            "d:\\palworldsdk\\plugins\\dlss\\intermediate\\build\\win64\\unrealgame\\inc\\dlssblueprint\\uht\\udlssmode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

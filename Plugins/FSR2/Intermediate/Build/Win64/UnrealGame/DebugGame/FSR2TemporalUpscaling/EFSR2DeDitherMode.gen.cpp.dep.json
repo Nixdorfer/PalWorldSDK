@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\fsr2\\intermediate\\build\\win64\\unrealgame\\inc\\fsr2temporalupscaling\\uht\\efsr2dedithermode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\fsr2\\intermediate\\build\\win64\\unrealgame\\debuggame\\fsr2temporalupscaling\\definitions.fsr2temporalupscaling.h",
+            "d:\\palworldsdk\\plugins\\fsr2\\source\\fsr2temporalupscaling\\public\\efsr2dedithermode.h",
+            "d:\\palworldsdk\\plugins\\fsr2\\intermediate\\build\\win64\\unrealgame\\inc\\fsr2temporalupscaling\\uht\\efsr2dedithermode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

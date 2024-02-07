@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\ppskycreatorplugin\\intermediate\\build\\win64\\unrealgame\\inc\\ppskycreatorplugin\\uht\\ppskycreatorplugin.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\ppskycreatorplugin\\intermediate\\build\\win64\\unrealgame\\debuggame\\ppskycreatorplugin\\definitions.ppskycreatorplugin.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\kawaiiphysics\\intermediate\\build\\win64\\unrealgame\\inc\\kawaiiphysics\\uht\\kawaiiphysics.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\kawaiiphysics\\intermediate\\build\\win64\\unrealgame\\debuggame\\kawaiiphysics\\definitions.kawaiiphysics.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

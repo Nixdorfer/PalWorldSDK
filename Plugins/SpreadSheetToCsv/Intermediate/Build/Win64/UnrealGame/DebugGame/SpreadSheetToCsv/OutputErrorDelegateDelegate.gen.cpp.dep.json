@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\spreadsheettocsv\\intermediate\\build\\win64\\unrealgame\\inc\\spreadsheettocsv\\uht\\outputerrordelegatedelegate.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\spreadsheettocsv\\intermediate\\build\\win64\\unrealgame\\debuggame\\spreadsheettocsv\\definitions.spreadsheettocsv.h",
+            "d:\\palworldsdk\\plugins\\spreadsheettocsv\\source\\spreadsheettocsv\\public\\outputerrordelegatedelegate.h",
+            "d:\\palworldsdk\\plugins\\spreadsheettocsv\\intermediate\\build\\win64\\unrealgame\\inc\\spreadsheettocsv\\uht\\outputerrordelegatedelegate.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

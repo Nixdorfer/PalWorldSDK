@@ -1,0 +1,32 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\commonuser\\intermediate\\build\\win64\\unrealgame\\inc\\commonuser\\uht\\asyncaction_commonuserinitialize.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\commonuser\\intermediate\\build\\win64\\unrealgame\\debuggame\\commonuser\\definitions.commonuser.h",
+            "d:\\palworldsdk\\plugins\\commonuser\\source\\commonuser\\public\\asyncaction_commonuserinitialize.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\optionalfwd.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\cancellableasyncaction.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintasyncactionbase.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\blueprintasyncactionbase.generated.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\cancellableasyncaction.generated.h",
+            "d:\\palworldsdk\\plugins\\commonuser\\source\\commonuser\\public\\commonuseroninitializecompletemulticastdelegate.h",
+            "d:\\palworldsdk\\plugins\\commonuser\\source\\commonuser\\public\\ecommonuseronlinecontext.h",
+            "d:\\palworldsdk\\plugins\\commonuser\\intermediate\\build\\win64\\unrealgame\\inc\\commonuser\\uht\\ecommonuseronlinecontext.generated.h",
+            "d:\\palworldsdk\\plugins\\commonuser\\source\\commonuser\\public\\ecommonuserprivilege.h",
+            "d:\\palworldsdk\\plugins\\commonuser\\intermediate\\build\\win64\\unrealgame\\inc\\commonuser\\uht\\ecommonuserprivilege.generated.h",
+            "d:\\palworldsdk\\plugins\\commonuser\\intermediate\\build\\win64\\unrealgame\\inc\\commonuser\\uht\\commonuseroninitializecompletemulticastdelegate.generated.h",
+            "d:\\palworldsdk\\plugins\\commonuser\\intermediate\\build\\win64\\unrealgame\\inc\\commonuser\\uht\\asyncaction_commonuserinitialize.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

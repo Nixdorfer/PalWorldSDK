@@ -1,0 +1,32 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\spreadsheettocsv\\intermediate\\build\\win64\\unrealeditor\\development\\spreadsheettocsv\\module.spreadsheettocsv.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\paleditor\\development\\engine\\sharedpch.engine.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\spreadsheettocsv\\intermediate\\build\\win64\\unrealeditor\\development\\spreadsheettocsv\\definitions.spreadsheettocsv.h",
+            "d:\\palworldsdk\\plugins\\spreadsheettocsv\\intermediate\\build\\win64\\unrealeditor\\inc\\spreadsheettocsv\\uht\\efetchresult.gen.cpp",
+            "d:\\palworldsdk\\plugins\\spreadsheettocsv\\source\\spreadsheettocsv\\public\\efetchresult.h",
+            "d:\\palworldsdk\\plugins\\spreadsheettocsv\\intermediate\\build\\win64\\unrealeditor\\inc\\spreadsheettocsv\\uht\\efetchresult.generated.h",
+            "d:\\palworldsdk\\plugins\\spreadsheettocsv\\intermediate\\build\\win64\\unrealeditor\\inc\\spreadsheettocsv\\uht\\ongetresultdelegate.gen.cpp",
+            "d:\\palworldsdk\\plugins\\spreadsheettocsv\\source\\spreadsheettocsv\\public\\ongetresultdelegate.h",
+            "d:\\palworldsdk\\plugins\\spreadsheettocsv\\intermediate\\build\\win64\\unrealeditor\\inc\\spreadsheettocsv\\uht\\ongetresultdelegate.generated.h",
+            "d:\\palworldsdk\\plugins\\spreadsheettocsv\\intermediate\\build\\win64\\unrealeditor\\inc\\spreadsheettocsv\\uht\\outputerrordelegatedelegate.gen.cpp",
+            "d:\\palworldsdk\\plugins\\spreadsheettocsv\\source\\spreadsheettocsv\\public\\outputerrordelegatedelegate.h",
+            "d:\\palworldsdk\\plugins\\spreadsheettocsv\\intermediate\\build\\win64\\unrealeditor\\inc\\spreadsheettocsv\\uht\\outputerrordelegatedelegate.generated.h",
+            "d:\\palworldsdk\\plugins\\spreadsheettocsv\\intermediate\\build\\win64\\unrealeditor\\inc\\spreadsheettocsv\\uht\\spreadsheetimpoter.gen.cpp",
+            "d:\\palworldsdk\\plugins\\spreadsheettocsv\\source\\spreadsheettocsv\\public\\spreadsheetimpoter.h",
+            "d:\\palworldsdk\\plugins\\spreadsheettocsv\\intermediate\\build\\win64\\unrealeditor\\inc\\spreadsheettocsv\\uht\\spreadsheetimpoter.generated.h",
+            "d:\\palworldsdk\\plugins\\spreadsheettocsv\\intermediate\\build\\win64\\unrealeditor\\inc\\spreadsheettocsv\\uht\\spreadsheettocsv.init.gen.cpp",
+            "d:\\palworldsdk\\plugins\\spreadsheettocsv\\intermediate\\build\\win64\\unrealeditor\\inc\\spreadsheettocsv\\uht\\spreadsheetutility.gen.cpp",
+            "d:\\palworldsdk\\plugins\\spreadsheettocsv\\source\\spreadsheettocsv\\public\\spreadsheetutility.h",
+            "d:\\palworldsdk\\plugins\\spreadsheettocsv\\intermediate\\build\\win64\\unrealeditor\\inc\\spreadsheettocsv\\uht\\spreadsheetutility.generated.h",
+            "d:\\palworldsdk\\plugins\\spreadsheettocsv\\source\\spreadsheettocsv\\private\\spreadsheetimpoter.cpp",
+            "d:\\palworldsdk\\plugins\\spreadsheettocsv\\source\\spreadsheettocsv\\private\\spreadsheettocsvmodule.cpp",
+            "d:\\palworldsdk\\plugins\\spreadsheettocsv\\source\\spreadsheettocsv\\private\\spreadsheetutility.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

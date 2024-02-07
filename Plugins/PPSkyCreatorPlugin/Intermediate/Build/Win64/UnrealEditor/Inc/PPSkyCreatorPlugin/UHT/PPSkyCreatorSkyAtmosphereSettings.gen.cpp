@@ -1,0 +1,264 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/GeneratedCppIncludes.h"
+#include "PPSkyCreatorPlugin/Public/PPSkyCreatorSkyAtmosphereSettings.h"
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+void EmptyLinkFunctionForGeneratedCodePPSkyCreatorSkyAtmosphereSettings() {}
+// Cross Module References
+	COREUOBJECT_API UScriptStruct* Z_Construct_UScriptStruct_FLinearColor();
+	PPSKYCREATORPLUGIN_API UScriptStruct* Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings();
+	UPackage* Z_Construct_UPackage__Script_PPSkyCreatorPlugin();
+// End Cross Module References
+	static FStructRegistrationInfo Z_Registration_Info_UScriptStruct_PPSkyCreatorSkyAtmosphereSettings;
+class UScriptStruct* FPPSkyCreatorSkyAtmosphereSettings::StaticStruct()
+{
+	if (!Z_Registration_Info_UScriptStruct_PPSkyCreatorSkyAtmosphereSettings.OuterSingleton)
+	{
+		Z_Registration_Info_UScriptStruct_PPSkyCreatorSkyAtmosphereSettings.OuterSingleton = GetStaticStruct(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings, Z_Construct_UPackage__Script_PPSkyCreatorPlugin(), TEXT("PPSkyCreatorSkyAtmosphereSettings"));
+	}
+	return Z_Registration_Info_UScriptStruct_PPSkyCreatorSkyAtmosphereSettings.OuterSingleton;
+}
+template<> PPSKYCREATORPLUGIN_API UScriptStruct* StaticStruct<FPPSkyCreatorSkyAtmosphereSettings>()
+{
+	return FPPSkyCreatorSkyAtmosphereSettings::StaticStruct();
+}
+	struct Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics
+	{
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam Struct_MetaDataParams[];
+#endif
+		static void* NewStructOps();
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_RayleighScatteringScale_MetaData[];
+#endif
+		static const UECodeGen_Private::FFloatPropertyParams NewProp_RayleighScatteringScale;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_RayleighScattering_MetaData[];
+#endif
+		static const UECodeGen_Private::FStructPropertyParams NewProp_RayleighScattering;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_RayleighExponentialDistribution_MetaData[];
+#endif
+		static const UECodeGen_Private::FFloatPropertyParams NewProp_RayleighExponentialDistribution;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_MieScatteringScale_MetaData[];
+#endif
+		static const UECodeGen_Private::FFloatPropertyParams NewProp_MieScatteringScale;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_MieScattering_MetaData[];
+#endif
+		static const UECodeGen_Private::FStructPropertyParams NewProp_MieScattering;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_MieAbsorptionScale_MetaData[];
+#endif
+		static const UECodeGen_Private::FFloatPropertyParams NewProp_MieAbsorptionScale;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_MieAbsorption_MetaData[];
+#endif
+		static const UECodeGen_Private::FStructPropertyParams NewProp_MieAbsorption;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_MieAnisotropy_MetaData[];
+#endif
+		static const UECodeGen_Private::FFloatPropertyParams NewProp_MieAnisotropy;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_MieExponentialDistribution_MetaData[];
+#endif
+		static const UECodeGen_Private::FFloatPropertyParams NewProp_MieExponentialDistribution;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_AbsorptionScale_MetaData[];
+#endif
+		static const UECodeGen_Private::FFloatPropertyParams NewProp_AbsorptionScale;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_Absorption_MetaData[];
+#endif
+		static const UECodeGen_Private::FStructPropertyParams NewProp_Absorption;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_SkyLuminanceFactor_MetaData[];
+#endif
+		static const UECodeGen_Private::FStructPropertyParams NewProp_SkyLuminanceFactor;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_GroundAlbedo_MetaData[];
+#endif
+		static const UECodeGen_Private::FStructPropertyParams NewProp_GroundAlbedo;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_HeightFogContribution_MetaData[];
+#endif
+		static const UECodeGen_Private::FFloatPropertyParams NewProp_HeightFogContribution;
+		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
+		static const UECodeGen_Private::FStructParams ReturnStructParams;
+	};
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::Struct_MetaDataParams[] = {
+		{ "BlueprintType", "true" },
+		{ "ModuleRelativePath", "Public/PPSkyCreatorSkyAtmosphereSettings.h" },
+	};
+#endif
+	void* Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewStructOps()
+	{
+		return (UScriptStruct::ICppStructOps*)new UScriptStruct::TCppStructOps<FPPSkyCreatorSkyAtmosphereSettings>();
+	}
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_RayleighScatteringScale_MetaData[] = {
+		{ "AllowPrivateAccess", "TRUE" },
+		{ "Category", "PPSkyCreatorSkyAtmosphereSettings" },
+		{ "ModuleRelativePath", "Public/PPSkyCreatorSkyAtmosphereSettings.h" },
+	};
+#endif
+	const UECodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_RayleighScatteringScale = { "RayleighScatteringScale", nullptr, (EPropertyFlags)0x0010000200000005, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(FPPSkyCreatorSkyAtmosphereSettings, RayleighScatteringScale), METADATA_PARAMS(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_RayleighScatteringScale_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_RayleighScatteringScale_MetaData)) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_RayleighScattering_MetaData[] = {
+		{ "AllowPrivateAccess", "TRUE" },
+		{ "Category", "PPSkyCreatorSkyAtmosphereSettings" },
+		{ "ModuleRelativePath", "Public/PPSkyCreatorSkyAtmosphereSettings.h" },
+	};
+#endif
+	const UECodeGen_Private::FStructPropertyParams Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_RayleighScattering = { "RayleighScattering", nullptr, (EPropertyFlags)0x0010000200000005, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(FPPSkyCreatorSkyAtmosphereSettings, RayleighScattering), Z_Construct_UScriptStruct_FLinearColor, METADATA_PARAMS(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_RayleighScattering_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_RayleighScattering_MetaData)) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_RayleighExponentialDistribution_MetaData[] = {
+		{ "AllowPrivateAccess", "TRUE" },
+		{ "Category", "PPSkyCreatorSkyAtmosphereSettings" },
+		{ "ModuleRelativePath", "Public/PPSkyCreatorSkyAtmosphereSettings.h" },
+	};
+#endif
+	const UECodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_RayleighExponentialDistribution = { "RayleighExponentialDistribution", nullptr, (EPropertyFlags)0x0010000200000005, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(FPPSkyCreatorSkyAtmosphereSettings, RayleighExponentialDistribution), METADATA_PARAMS(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_RayleighExponentialDistribution_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_RayleighExponentialDistribution_MetaData)) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieScatteringScale_MetaData[] = {
+		{ "AllowPrivateAccess", "TRUE" },
+		{ "Category", "PPSkyCreatorSkyAtmosphereSettings" },
+		{ "ModuleRelativePath", "Public/PPSkyCreatorSkyAtmosphereSettings.h" },
+	};
+#endif
+	const UECodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieScatteringScale = { "MieScatteringScale", nullptr, (EPropertyFlags)0x0010000200000005, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(FPPSkyCreatorSkyAtmosphereSettings, MieScatteringScale), METADATA_PARAMS(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieScatteringScale_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieScatteringScale_MetaData)) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieScattering_MetaData[] = {
+		{ "AllowPrivateAccess", "TRUE" },
+		{ "Category", "PPSkyCreatorSkyAtmosphereSettings" },
+		{ "ModuleRelativePath", "Public/PPSkyCreatorSkyAtmosphereSettings.h" },
+	};
+#endif
+	const UECodeGen_Private::FStructPropertyParams Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieScattering = { "MieScattering", nullptr, (EPropertyFlags)0x0010000200000005, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(FPPSkyCreatorSkyAtmosphereSettings, MieScattering), Z_Construct_UScriptStruct_FLinearColor, METADATA_PARAMS(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieScattering_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieScattering_MetaData)) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieAbsorptionScale_MetaData[] = {
+		{ "AllowPrivateAccess", "TRUE" },
+		{ "Category", "PPSkyCreatorSkyAtmosphereSettings" },
+		{ "ModuleRelativePath", "Public/PPSkyCreatorSkyAtmosphereSettings.h" },
+	};
+#endif
+	const UECodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieAbsorptionScale = { "MieAbsorptionScale", nullptr, (EPropertyFlags)0x0010000200000005, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(FPPSkyCreatorSkyAtmosphereSettings, MieAbsorptionScale), METADATA_PARAMS(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieAbsorptionScale_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieAbsorptionScale_MetaData)) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieAbsorption_MetaData[] = {
+		{ "AllowPrivateAccess", "TRUE" },
+		{ "Category", "PPSkyCreatorSkyAtmosphereSettings" },
+		{ "ModuleRelativePath", "Public/PPSkyCreatorSkyAtmosphereSettings.h" },
+	};
+#endif
+	const UECodeGen_Private::FStructPropertyParams Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieAbsorption = { "MieAbsorption", nullptr, (EPropertyFlags)0x0010000200000005, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(FPPSkyCreatorSkyAtmosphereSettings, MieAbsorption), Z_Construct_UScriptStruct_FLinearColor, METADATA_PARAMS(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieAbsorption_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieAbsorption_MetaData)) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieAnisotropy_MetaData[] = {
+		{ "AllowPrivateAccess", "TRUE" },
+		{ "Category", "PPSkyCreatorSkyAtmosphereSettings" },
+		{ "ModuleRelativePath", "Public/PPSkyCreatorSkyAtmosphereSettings.h" },
+	};
+#endif
+	const UECodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieAnisotropy = { "MieAnisotropy", nullptr, (EPropertyFlags)0x0010000200000005, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(FPPSkyCreatorSkyAtmosphereSettings, MieAnisotropy), METADATA_PARAMS(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieAnisotropy_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieAnisotropy_MetaData)) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieExponentialDistribution_MetaData[] = {
+		{ "AllowPrivateAccess", "TRUE" },
+		{ "Category", "PPSkyCreatorSkyAtmosphereSettings" },
+		{ "ModuleRelativePath", "Public/PPSkyCreatorSkyAtmosphereSettings.h" },
+	};
+#endif
+	const UECodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieExponentialDistribution = { "MieExponentialDistribution", nullptr, (EPropertyFlags)0x0010000200000005, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(FPPSkyCreatorSkyAtmosphereSettings, MieExponentialDistribution), METADATA_PARAMS(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieExponentialDistribution_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieExponentialDistribution_MetaData)) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_AbsorptionScale_MetaData[] = {
+		{ "AllowPrivateAccess", "TRUE" },
+		{ "Category", "PPSkyCreatorSkyAtmosphereSettings" },
+		{ "ModuleRelativePath", "Public/PPSkyCreatorSkyAtmosphereSettings.h" },
+	};
+#endif
+	const UECodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_AbsorptionScale = { "AbsorptionScale", nullptr, (EPropertyFlags)0x0010000200000005, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(FPPSkyCreatorSkyAtmosphereSettings, AbsorptionScale), METADATA_PARAMS(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_AbsorptionScale_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_AbsorptionScale_MetaData)) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_Absorption_MetaData[] = {
+		{ "AllowPrivateAccess", "TRUE" },
+		{ "Category", "PPSkyCreatorSkyAtmosphereSettings" },
+		{ "ModuleRelativePath", "Public/PPSkyCreatorSkyAtmosphereSettings.h" },
+	};
+#endif
+	const UECodeGen_Private::FStructPropertyParams Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_Absorption = { "Absorption", nullptr, (EPropertyFlags)0x0010000200000005, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(FPPSkyCreatorSkyAtmosphereSettings, Absorption), Z_Construct_UScriptStruct_FLinearColor, METADATA_PARAMS(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_Absorption_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_Absorption_MetaData)) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_SkyLuminanceFactor_MetaData[] = {
+		{ "AllowPrivateAccess", "TRUE" },
+		{ "Category", "PPSkyCreatorSkyAtmosphereSettings" },
+		{ "ModuleRelativePath", "Public/PPSkyCreatorSkyAtmosphereSettings.h" },
+	};
+#endif
+	const UECodeGen_Private::FStructPropertyParams Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_SkyLuminanceFactor = { "SkyLuminanceFactor", nullptr, (EPropertyFlags)0x0010000200000005, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(FPPSkyCreatorSkyAtmosphereSettings, SkyLuminanceFactor), Z_Construct_UScriptStruct_FLinearColor, METADATA_PARAMS(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_SkyLuminanceFactor_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_SkyLuminanceFactor_MetaData)) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_GroundAlbedo_MetaData[] = {
+		{ "AllowPrivateAccess", "TRUE" },
+		{ "Category", "PPSkyCreatorSkyAtmosphereSettings" },
+		{ "ModuleRelativePath", "Public/PPSkyCreatorSkyAtmosphereSettings.h" },
+	};
+#endif
+	const UECodeGen_Private::FStructPropertyParams Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_GroundAlbedo = { "GroundAlbedo", nullptr, (EPropertyFlags)0x0010000200000005, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(FPPSkyCreatorSkyAtmosphereSettings, GroundAlbedo), Z_Construct_UScriptStruct_FLinearColor, METADATA_PARAMS(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_GroundAlbedo_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_GroundAlbedo_MetaData)) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_HeightFogContribution_MetaData[] = {
+		{ "AllowPrivateAccess", "TRUE" },
+		{ "Category", "PPSkyCreatorSkyAtmosphereSettings" },
+		{ "ModuleRelativePath", "Public/PPSkyCreatorSkyAtmosphereSettings.h" },
+	};
+#endif
+	const UECodeGen_Private::FFloatPropertyParams Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_HeightFogContribution = { "HeightFogContribution", nullptr, (EPropertyFlags)0x0010000200000005, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, nullptr, nullptr, STRUCT_OFFSET(FPPSkyCreatorSkyAtmosphereSettings, HeightFogContribution), METADATA_PARAMS(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_HeightFogContribution_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_HeightFogContribution_MetaData)) };
+	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::PropPointers[] = {
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_RayleighScatteringScale,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_RayleighScattering,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_RayleighExponentialDistribution,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieScatteringScale,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieScattering,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieAbsorptionScale,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieAbsorption,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieAnisotropy,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_MieExponentialDistribution,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_AbsorptionScale,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_Absorption,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_SkyLuminanceFactor,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_GroundAlbedo,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewProp_HeightFogContribution,
+	};
+	const UECodeGen_Private::FStructParams Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::ReturnStructParams = {
+		(UObject* (*)())Z_Construct_UPackage__Script_PPSkyCreatorPlugin,
+		nullptr,
+		&NewStructOps,
+		"PPSkyCreatorSkyAtmosphereSettings",
+		sizeof(FPPSkyCreatorSkyAtmosphereSettings),
+		alignof(FPPSkyCreatorSkyAtmosphereSettings),
+		Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::PropPointers,
+		UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::PropPointers),
+		RF_Public|RF_Transient|RF_MarkAsNative,
+		EStructFlags(0x00000001),
+		METADATA_PARAMS(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::Struct_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::Struct_MetaDataParams))
+	};
+	UScriptStruct* Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings()
+	{
+		if (!Z_Registration_Info_UScriptStruct_PPSkyCreatorSkyAtmosphereSettings.InnerSingleton)
+		{
+			UECodeGen_Private::ConstructUScriptStruct(Z_Registration_Info_UScriptStruct_PPSkyCreatorSkyAtmosphereSettings.InnerSingleton, Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::ReturnStructParams);
+		}
+		return Z_Registration_Info_UScriptStruct_PPSkyCreatorSkyAtmosphereSettings.InnerSingleton;
+	}
+	struct Z_CompiledInDeferFile_FID_PalWorldSDK_Plugins_PPSkyCreatorPlugin_Source_PPSkyCreatorPlugin_Public_PPSkyCreatorSkyAtmosphereSettings_h_Statics
+	{
+		static const FStructRegisterCompiledInInfo ScriptStructInfo[];
+	};
+	const FStructRegisterCompiledInInfo Z_CompiledInDeferFile_FID_PalWorldSDK_Plugins_PPSkyCreatorPlugin_Source_PPSkyCreatorPlugin_Public_PPSkyCreatorSkyAtmosphereSettings_h_Statics::ScriptStructInfo[] = {
+		{ FPPSkyCreatorSkyAtmosphereSettings::StaticStruct, Z_Construct_UScriptStruct_FPPSkyCreatorSkyAtmosphereSettings_Statics::NewStructOps, TEXT("PPSkyCreatorSkyAtmosphereSettings"), &Z_Registration_Info_UScriptStruct_PPSkyCreatorSkyAtmosphereSettings, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FPPSkyCreatorSkyAtmosphereSettings), 2047631239U) },
+	};
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_PalWorldSDK_Plugins_PPSkyCreatorPlugin_Source_PPSkyCreatorPlugin_Public_PPSkyCreatorSkyAtmosphereSettings_h_561744678(TEXT("/Script/PPSkyCreatorPlugin"),
+		nullptr, 0,
+		Z_CompiledInDeferFile_FID_PalWorldSDK_Plugins_PPSkyCreatorPlugin_Source_PPSkyCreatorPlugin_Public_PPSkyCreatorSkyAtmosphereSettings_h_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_PalWorldSDK_Plugins_PPSkyCreatorPlugin_Source_PPSkyCreatorPlugin_Public_PPSkyCreatorSkyAtmosphereSettings_h_Statics::ScriptStructInfo),
+		nullptr, 0);
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

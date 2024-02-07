@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\fsr2\\intermediate\\build\\win64\\unrealeditor\\development\\fsr2temporalupscaling\\module.fsr2temporalupscaling.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\paleditor\\development\\engine\\sharedpch.engine.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\fsr2\\intermediate\\build\\win64\\unrealeditor\\development\\fsr2temporalupscaling\\definitions.fsr2temporalupscaling.h",
+            "d:\\palworldsdk\\plugins\\fsr2\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2temporalupscaling\\uht\\efsr2dedithermode.gen.cpp",
+            "d:\\palworldsdk\\plugins\\fsr2\\source\\fsr2temporalupscaling\\public\\efsr2dedithermode.h",
+            "d:\\palworldsdk\\plugins\\fsr2\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2temporalupscaling\\uht\\efsr2dedithermode.generated.h",
+            "d:\\palworldsdk\\plugins\\fsr2\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2temporalupscaling\\uht\\efsr2historyformat.gen.cpp",
+            "d:\\palworldsdk\\plugins\\fsr2\\source\\fsr2temporalupscaling\\public\\efsr2historyformat.h",
+            "d:\\palworldsdk\\plugins\\fsr2\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2temporalupscaling\\uht\\efsr2historyformat.generated.h",
+            "d:\\palworldsdk\\plugins\\fsr2\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2temporalupscaling\\uht\\efsr2landscapehismmode.gen.cpp",
+            "d:\\palworldsdk\\plugins\\fsr2\\source\\fsr2temporalupscaling\\public\\efsr2landscapehismmode.h",
+            "d:\\palworldsdk\\plugins\\fsr2\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2temporalupscaling\\uht\\efsr2landscapehismmode.generated.h",
+            "d:\\palworldsdk\\plugins\\fsr2\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2temporalupscaling\\uht\\efsr2qualitymode.gen.cpp",
+            "d:\\palworldsdk\\plugins\\fsr2\\source\\fsr2temporalupscaling\\public\\efsr2qualitymode.h",
+            "d:\\palworldsdk\\plugins\\fsr2\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2temporalupscaling\\uht\\efsr2qualitymode.generated.h",
+            "d:\\palworldsdk\\plugins\\fsr2\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2temporalupscaling\\uht\\fsr2settings.gen.cpp",
+            "d:\\palworldsdk\\plugins\\fsr2\\source\\fsr2temporalupscaling\\public\\fsr2settings.h",
+            "d:\\palworldsdk\\plugins\\fsr2\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2temporalupscaling\\uht\\fsr2settings.generated.h",
+            "d:\\palworldsdk\\plugins\\fsr2\\intermediate\\build\\win64\\unrealeditor\\inc\\fsr2temporalupscaling\\uht\\fsr2temporalupscaling.init.gen.cpp",
+            "d:\\palworldsdk\\plugins\\fsr2\\source\\fsr2temporalupscaling\\private\\fsr2settings.cpp",
+            "d:\\palworldsdk\\plugins\\fsr2\\source\\fsr2temporalupscaling\\private\\fsr2temporalupscalingmodule.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AkAudioMixer.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\PalWorldSDK\Intermediate\Build\Win64\PalEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\PalWorldSDK\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AkAudioMixer\Module.AkAudioMixer.cpp.obj"
+"D:\PalWorldSDK\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AkAudioMixer\Default.rc2.res"
+/OUT:"D:\PalWorldSDK\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AkAudioMixer\UnrealEditor-AkAudioMixer.lib"

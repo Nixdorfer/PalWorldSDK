@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\fsr2movierenderpipeline\\intermediate\\build\\win64\\unrealgame\\inc\\fsr2movierenderpipeline\\uht\\efsr2moviepipelinequality.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\fsr2movierenderpipeline\\intermediate\\build\\win64\\unrealgame\\debuggame\\fsr2movierenderpipeline\\definitions.fsr2movierenderpipeline.h",
+            "d:\\palworldsdk\\plugins\\fsr2movierenderpipeline\\source\\fsr2movierenderpipeline\\public\\efsr2moviepipelinequality.h",
+            "d:\\palworldsdk\\plugins\\fsr2movierenderpipeline\\intermediate\\build\\win64\\unrealgame\\inc\\fsr2movierenderpipeline\\uht\\efsr2moviepipelinequality.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\intermediate\\build\\win64\\unrealgame\\inc\\placementtools\\uht\\sphereplacement.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\intermediate\\build\\win64\\unrealgame\\debuggame\\placementtools\\definitions.placementtools.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\source\\placementtools\\public\\sphereplacement.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\source\\placementtools\\public\\efadeaxis.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\intermediate\\build\\win64\\unrealgame\\inc\\placementtools\\uht\\efadeaxis.generated.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\source\\placementtools\\public\\placementtoolbase.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\optionalfwd.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\source\\placementtools\\public\\directions.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\intermediate\\build\\win64\\unrealgame\\inc\\placementtools\\uht\\directions.generated.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\source\\placementtools\\public\\eplacementmode.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\intermediate\\build\\win64\\unrealgame\\inc\\placementtools\\uht\\eplacementmode.generated.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\source\\placementtools\\public\\eplacementstyle.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\intermediate\\build\\win64\\unrealgame\\inc\\placementtools\\uht\\eplacementstyle.generated.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\source\\placementtools\\public\\lineardistribution.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\intermediate\\build\\win64\\unrealgame\\inc\\placementtools\\uht\\lineardistribution.generated.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\source\\placementtools\\public\\placementitem.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\source\\placementtools\\public\\eitemtype.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\intermediate\\build\\win64\\unrealgame\\inc\\placementtools\\uht\\eitemtype.generated.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\intermediate\\build\\win64\\unrealgame\\inc\\placementtools\\uht\\placementitem.generated.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\intermediate\\build\\win64\\unrealgame\\inc\\placementtools\\uht\\placementtoolbase.generated.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\placementtools\\intermediate\\build\\win64\\unrealgame\\inc\\placementtools\\uht\\sphereplacement.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

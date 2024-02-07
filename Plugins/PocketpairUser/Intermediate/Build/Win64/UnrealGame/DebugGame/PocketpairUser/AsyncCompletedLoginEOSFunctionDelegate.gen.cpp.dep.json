@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\pocketpairuser\\intermediate\\build\\win64\\unrealgame\\inc\\pocketpairuser\\uht\\asynccompletedlogineosfunctiondelegate.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\pocketpairuser\\intermediate\\build\\win64\\unrealgame\\debuggame\\pocketpairuser\\definitions.pocketpairuser.h",
+            "d:\\palworldsdk\\plugins\\pocketpairuser\\source\\pocketpairuser\\public\\asynccompletedlogineosfunctiondelegate.h",
+            "d:\\palworldsdk\\plugins\\pocketpairuser\\intermediate\\build\\win64\\unrealgame\\inc\\pocketpairuser\\uht\\asynccompletedlogineosfunctiondelegate.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

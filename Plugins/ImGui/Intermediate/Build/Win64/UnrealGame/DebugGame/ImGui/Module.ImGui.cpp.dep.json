@@ -1,0 +1,40 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\imgui\\intermediate\\build\\win64\\unrealgame\\debuggame\\imgui\\module.imgui.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\imgui\\intermediate\\build\\win64\\unrealgame\\debuggame\\imgui\\definitions.imgui.h",
+            "d:\\palworldsdk\\plugins\\imgui\\source\\imgui\\private\\imguicanvassizeinfo.cpp",
+            "d:\\palworldsdk\\plugins\\imgui\\source\\imgui\\public\\imguicanvassizeinfo.h",
+            "d:\\palworldsdk\\plugins\\imgui\\source\\imgui\\public\\eimguicanvassizetype.h",
+            "d:\\palworldsdk\\plugins\\imgui\\intermediate\\build\\win64\\unrealgame\\inc\\imgui\\uht\\eimguicanvassizetype.generated.h",
+            "d:\\palworldsdk\\plugins\\imgui\\intermediate\\build\\win64\\unrealgame\\inc\\imgui\\uht\\imguicanvassizeinfo.generated.h",
+            "d:\\palworldsdk\\plugins\\imgui\\source\\imgui\\private\\imguidpiscaleinfo.cpp",
+            "d:\\palworldsdk\\plugins\\imgui\\source\\imgui\\public\\imguidpiscaleinfo.h",
+            "d:\\palworldsdk\\plugins\\imgui\\source\\imgui\\public\\eimguidpiscalemethod.h",
+            "d:\\palworldsdk\\plugins\\imgui\\intermediate\\build\\win64\\unrealgame\\inc\\imgui\\uht\\eimguidpiscalemethod.generated.h",
+            "d:\\palworldsdk\\plugins\\imgui\\intermediate\\build\\win64\\unrealgame\\inc\\imgui\\uht\\imguidpiscaleinfo.generated.h",
+            "d:\\palworldsdk\\plugins\\imgui\\source\\imgui\\private\\imguiinputhandler.cpp",
+            "d:\\palworldsdk\\plugins\\imgui\\source\\imgui\\public\\imguiinputhandler.h",
+            "d:\\palworldsdk\\plugins\\imgui\\intermediate\\build\\win64\\unrealgame\\inc\\imgui\\uht\\imguiinputhandler.generated.h",
+            "d:\\palworldsdk\\plugins\\imgui\\source\\imgui\\private\\imguikeyinfo.cpp",
+            "d:\\palworldsdk\\plugins\\imgui\\source\\imgui\\public\\imguikeyinfo.h",
+            "d:\\palworldsdk\\plugins\\imgui\\intermediate\\build\\win64\\unrealgame\\inc\\imgui\\uht\\imguikeyinfo.generated.h",
+            "d:\\palworldsdk\\plugins\\imgui\\source\\imgui\\private\\imguimodule.cpp",
+            "d:\\palworldsdk\\plugins\\imgui\\source\\imgui\\private\\imguisettings.cpp",
+            "d:\\palworldsdk\\plugins\\imgui\\source\\imgui\\public\\imguisettings.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\optionalfwd.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\palworldsdk\\plugins\\imgui\\intermediate\\build\\win64\\unrealgame\\inc\\imgui\\uht\\imguisettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

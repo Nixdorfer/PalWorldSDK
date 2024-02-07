@@ -1,0 +1,41 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CommonUser.cpp.obj": [
+			"AsyncAction_CommonUserInitialize.gen.cpp.obj",
+			"CommonSessionOnCreateSessionComplete_DynamicDelegate.gen.cpp.obj",
+			"CommonSessionOnJoinSessionComplete_DynamicDelegate.gen.cpp.obj",
+			"CommonSessionOnUserRequestedSession_DynamicDelegate.gen.cpp.obj",
+			"CommonSessionSubsystem.gen.cpp.obj",
+			"CommonSession_FindSessionsFinishedDynamicDelegate.gen.cpp.obj",
+			"CommonSession_HostSessionRequest.gen.cpp.obj",
+			"CommonSession_SearchResult.gen.cpp.obj",
+			"CommonSession_SearchSessionRequest.gen.cpp.obj",
+			"CommonUser.init.gen.cpp.obj",
+			"CommonUserAvailabilityChangedDelegateDelegate.gen.cpp.obj",
+			"CommonUserHandleSystemMessageDelegateDelegate.gen.cpp.obj",
+			"CommonUserInfo.gen.cpp.obj",
+			"CommonUserInitializeParams.gen.cpp.obj",
+			"CommonUserOnInitializeCompleteDelegate.gen.cpp.obj",
+			"CommonUserOnInitializeCompleteMulticastDelegate.gen.cpp.obj",
+			"CommonUserSubsystem.gen.cpp.obj",
+			"ECommonSessionOnlineMode.gen.cpp.obj",
+			"ECommonUserAvailability.gen.cpp.obj",
+			"ECommonUserInitializationState.gen.cpp.obj",
+			"ECommonUserOnlineContext.gen.cpp.obj",
+			"ECommonUserPrivilege.gen.cpp.obj",
+			"ECommonUserPrivilegeResult.gen.cpp.obj",
+			"OnlineResultInformation.gen.cpp.obj",
+			"AsyncAction_CommonUserInitialize.cpp.obj",
+			"CommonSessionSubsystem.cpp.obj",
+			"CommonSession_HostSessionRequest.cpp.obj",
+			"CommonSession_SearchResult.cpp.obj",
+			"CommonSession_SearchSessionRequest.cpp.obj",
+			"CommonUserInfo.cpp.obj",
+			"CommonUserInitializeParams.cpp.obj",
+			"CommonUserModule.cpp.obj",
+			"CommonUserSubsystem.cpp.obj",
+			"OnlineResultInformation.cpp.obj"
+		]
+	}
+}

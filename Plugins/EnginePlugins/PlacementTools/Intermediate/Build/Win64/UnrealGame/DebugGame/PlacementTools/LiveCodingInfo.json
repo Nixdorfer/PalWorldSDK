@@ -1,0 +1,25 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PlacementTools.cpp.obj": [
+			"BoxPlacement.cpp.obj",
+			"Directions.cpp.obj",
+			"LinearDistribution.cpp.obj",
+			"PlacementItem.cpp.obj",
+			"PlacementToolBase.cpp.obj",
+			"PlacementToolsModule.cpp.obj",
+			"SpherePlacement.cpp.obj",
+			"BoxPlacement.gen.cpp.obj",
+			"Directions.gen.cpp.obj",
+			"EFadeAxis.gen.cpp.obj",
+			"EItemType.gen.cpp.obj",
+			"EPlacementMode.gen.cpp.obj",
+			"EPlacementStyle.gen.cpp.obj",
+			"LinearDistribution.gen.cpp.obj",
+			"PlacementItem.gen.cpp.obj",
+			"PlacementToolBase.gen.cpp.obj",
+			"PlacementTools.init.gen.cpp.obj",
+			"SpherePlacement.gen.cpp.obj"
+		]
+	}
+}

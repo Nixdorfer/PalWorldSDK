@@ -1,0 +1,27 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ModularGameplayActors.cpp.obj": [
+			"ModularAIController.gen.cpp.obj",
+			"ModularCharacter.gen.cpp.obj",
+			"ModularGameMode.gen.cpp.obj",
+			"ModularGameModeBase.gen.cpp.obj",
+			"ModularGameplayActors.init.gen.cpp.obj",
+			"ModularGameState.gen.cpp.obj",
+			"ModularGameStateBase.gen.cpp.obj",
+			"ModularPawn.gen.cpp.obj",
+			"ModularPlayerController.gen.cpp.obj",
+			"ModularPlayerState.gen.cpp.obj",
+			"ModularAIController.cpp.obj",
+			"ModularCharacter.cpp.obj",
+			"ModularGameMode.cpp.obj",
+			"ModularGameModeBase.cpp.obj",
+			"ModularGameplayActorsModule.cpp.obj",
+			"ModularGameState.cpp.obj",
+			"ModularGameStateBase.cpp.obj",
+			"ModularPawn.cpp.obj",
+			"ModularPlayerController.cpp.obj",
+			"ModularPlayerState.cpp.obj"
+		]
+	}
+}

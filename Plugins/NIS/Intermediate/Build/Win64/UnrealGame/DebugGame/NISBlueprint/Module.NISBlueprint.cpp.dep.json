@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\nis\\intermediate\\build\\win64\\unrealgame\\debuggame\\nisblueprint\\module.nisblueprint.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\nis\\intermediate\\build\\win64\\unrealgame\\debuggame\\nisblueprint\\definitions.nisblueprint.h",
+            "d:\\palworldsdk\\plugins\\nis\\source\\nisblueprint\\private\\nisblueprintmodule.cpp",
+            "d:\\palworldsdk\\plugins\\nis\\source\\nisblueprint\\private\\nislibrary.cpp",
+            "d:\\palworldsdk\\plugins\\nis\\source\\nisblueprint\\public\\nislibrary.h",
+            "d:\\palworldsdk\\plugins\\nis\\source\\nisblueprint\\public\\unismode.h",
+            "d:\\palworldsdk\\plugins\\nis\\intermediate\\build\\win64\\unrealgame\\inc\\nisblueprint\\uht\\unismode.generated.h",
+            "d:\\palworldsdk\\plugins\\nis\\intermediate\\build\\win64\\unrealgame\\inc\\nisblueprint\\uht\\nislibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

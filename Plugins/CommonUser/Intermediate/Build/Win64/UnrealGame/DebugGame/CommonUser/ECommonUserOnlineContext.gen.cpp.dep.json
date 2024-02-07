@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\commonuser\\intermediate\\build\\win64\\unrealgame\\inc\\commonuser\\uht\\ecommonuseronlinecontext.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\commonuser\\intermediate\\build\\win64\\unrealgame\\debuggame\\commonuser\\definitions.commonuser.h",
+            "d:\\palworldsdk\\plugins\\commonuser\\source\\commonuser\\public\\ecommonuseronlinecontext.h",
+            "d:\\palworldsdk\\plugins\\commonuser\\intermediate\\build\\win64\\unrealgame\\inc\\commonuser\\uht\\ecommonuseronlinecontext.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

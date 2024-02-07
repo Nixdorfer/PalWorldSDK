@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\akaudio\\uht\\akambientsound.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\debuggame\\akaudio\\definitions.akaudio.h",
+            "d:\\palworldsdk\\plugins\\wwise\\source\\akaudio\\classes\\akambientsound.h",
+            "d:\\palworldsdk\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\akaudio\\uht\\akambientsound.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

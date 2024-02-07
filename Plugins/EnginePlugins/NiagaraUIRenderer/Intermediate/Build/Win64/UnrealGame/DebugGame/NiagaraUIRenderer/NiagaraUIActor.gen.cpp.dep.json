@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\engineplugins\\niagarauirenderer\\intermediate\\build\\win64\\unrealgame\\inc\\niagarauirenderer\\uht\\niagarauiactor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\engineplugins\\niagarauirenderer\\intermediate\\build\\win64\\unrealgame\\debuggame\\niagarauirenderer\\definitions.niagarauirenderer.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\niagarauirenderer\\source\\niagarauirenderer\\public\\niagarauiactor.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\niagarauirenderer\\intermediate\\build\\win64\\unrealgame\\inc\\niagarauirenderer\\uht\\niagarauiactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DLSS.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\PalWorldSDK\Intermediate\Build\Win64\PalEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\PalWorldSDK\Plugins\DLSS\Intermediate\Build\Win64\UnrealEditor\Development\DLSS\Module.DLSS.cpp.obj"
+"D:\PalWorldSDK\Plugins\DLSS\Intermediate\Build\Win64\UnrealEditor\Development\DLSS\Default.rc2.res"
+/OUT:"D:\PalWorldSDK\Plugins\DLSS\Intermediate\Build\Win64\UnrealEditor\Development\DLSS\UnrealEditor-DLSS.lib"

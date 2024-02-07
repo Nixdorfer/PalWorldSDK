@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NiagaraUIRenderer.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\PalWorldSDK\Intermediate\Build\Win64\PalEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\PalWorldSDK\Plugins\EnginePlugins\NiagaraUIRenderer\Intermediate\Build\Win64\UnrealEditor\Development\NiagaraUIRenderer\Module.NiagaraUIRenderer.cpp.obj"
+"D:\PalWorldSDK\Plugins\EnginePlugins\NiagaraUIRenderer\Intermediate\Build\Win64\UnrealEditor\Development\NiagaraUIRenderer\Default.rc2.res"
+/OUT:"D:\PalWorldSDK\Plugins\EnginePlugins\NiagaraUIRenderer\Intermediate\Build\Win64\UnrealEditor\Development\NiagaraUIRenderer\UnrealEditor-NiagaraUIRenderer.lib"

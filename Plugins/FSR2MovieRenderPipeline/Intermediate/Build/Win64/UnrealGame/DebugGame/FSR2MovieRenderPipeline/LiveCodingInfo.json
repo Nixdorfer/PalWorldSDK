@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.FSR2MovieRenderPipeline.cpp.obj": [
+			"FSR2MoviePipelineSettings.cpp.obj",
+			"FSR2MovieRenderPipelineModule.cpp.obj",
+			"EFSR2MoviePipelineQuality.gen.cpp.obj",
+			"FSR2MoviePipelineSettings.gen.cpp.obj",
+			"FSR2MovieRenderPipeline.init.gen.cpp.obj"
+		]
+	}
+}

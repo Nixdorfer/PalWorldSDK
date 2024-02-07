@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\engineplugins\\skycreatorplugin\\intermediate\\build\\win64\\unrealgame\\inc\\skycreatorplugin\\uht\\skycreatorlightningparameters.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\engineplugins\\skycreatorplugin\\intermediate\\build\\win64\\unrealgame\\debuggame\\skycreatorplugin\\definitions.skycreatorplugin.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\skycreatorplugin\\source\\skycreatorplugin\\public\\skycreatorlightningparameters.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\optionalfwd.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\palworldsdk\\plugins\\engineplugins\\skycreatorplugin\\intermediate\\build\\win64\\unrealgame\\inc\\skycreatorplugin\\uht\\skycreatorlightningparameters.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

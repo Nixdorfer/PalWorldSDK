@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\imgui\\intermediate\\build\\win64\\unrealgame\\inc\\imgui\\uht\\imguidpiscaleinfo.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\imgui\\intermediate\\build\\win64\\unrealgame\\debuggame\\imgui\\definitions.imgui.h",
+            "d:\\palworldsdk\\plugins\\imgui\\source\\imgui\\public\\imguidpiscaleinfo.h",
+            "d:\\palworldsdk\\plugins\\imgui\\source\\imgui\\public\\eimguidpiscalemethod.h",
+            "d:\\palworldsdk\\plugins\\imgui\\intermediate\\build\\win64\\unrealgame\\inc\\imgui\\uht\\eimguidpiscalemethod.generated.h",
+            "d:\\palworldsdk\\plugins\\imgui\\intermediate\\build\\win64\\unrealgame\\inc\\imgui\\uht\\imguidpiscaleinfo.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

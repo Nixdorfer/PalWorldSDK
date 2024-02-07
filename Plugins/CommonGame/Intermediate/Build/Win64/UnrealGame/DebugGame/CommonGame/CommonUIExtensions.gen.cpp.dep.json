@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\commongame\\intermediate\\build\\win64\\unrealgame\\inc\\commongame\\uht\\commonuiextensions.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\commongame\\intermediate\\build\\win64\\unrealgame\\debuggame\\commongame\\definitions.commongame.h",
+            "d:\\palworldsdk\\plugins\\commongame\\source\\commongame\\public\\commonuiextensions.h",
+            "d:\\ue_5.1\\engine\\plugins\\experimental\\commonui\\source\\commoninput\\public\\commoninputbasetypes.h",
+            "d:\\ue_5.1\\engine\\plugins\\experimental\\commonui\\source\\commoninput\\public\\commoninputtypeenum.h",
+            "d:\\ue_5.1\\engine\\plugins\\experimental\\commonui\\intermediate\\build\\win64\\unrealgame\\inc\\commoninput\\uht\\commoninputtypeenum.generated.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\userdefinedenum.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\userdefinedenum.generated.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\datatable.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\engine\\public\\datatableutils.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\datatable.generated.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\developersettings\\public\\engine\\platformsettings.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\developersettings\\public\\engine\\platformsettingsmanager.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\developersettings\\uht\\platformsettingsmanager.generated.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\developersettings\\uht\\platformsettings.generated.h",
+            "d:\\ue_5.1\\engine\\plugins\\experimental\\commonui\\intermediate\\build\\win64\\unrealgame\\inc\\commoninput\\uht\\commoninputbasetypes.generated.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "d:\\palworldsdk\\plugins\\commongame\\intermediate\\build\\win64\\unrealgame\\inc\\commongame\\uht\\commonuiextensions.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

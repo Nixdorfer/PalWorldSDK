@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\imgui\\intermediate\\build\\win64\\unrealgame\\inc\\imgui\\uht\\imguikeyinfo.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\imgui\\intermediate\\build\\win64\\unrealgame\\debuggame\\imgui\\definitions.imgui.h",
+            "d:\\palworldsdk\\plugins\\imgui\\source\\imgui\\public\\imguikeyinfo.h",
+            "d:\\palworldsdk\\plugins\\imgui\\intermediate\\build\\win64\\unrealgame\\inc\\imgui\\uht\\imguikeyinfo.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

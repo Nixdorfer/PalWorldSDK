@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\dlss\\intermediate\\build\\win64\\unrealgame\\debuggame\\dlss\\module.dlss.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\dlss\\intermediate\\build\\win64\\unrealgame\\debuggame\\dlss\\definitions.dlss.h",
+            "d:\\palworldsdk\\plugins\\dlss\\source\\dlss\\private\\dlssmodule.cpp",
+            "d:\\palworldsdk\\plugins\\dlss\\source\\dlss\\private\\dlssoverridesettings.cpp",
+            "d:\\palworldsdk\\plugins\\dlss\\source\\dlss\\public\\dlssoverridesettings.h",
+            "d:\\palworldsdk\\plugins\\dlss\\source\\dlss\\public\\edlsssettingoverride.h",
+            "d:\\palworldsdk\\plugins\\dlss\\intermediate\\build\\win64\\unrealgame\\inc\\dlss\\uht\\edlsssettingoverride.generated.h",
+            "d:\\palworldsdk\\plugins\\dlss\\intermediate\\build\\win64\\unrealgame\\inc\\dlss\\uht\\dlssoverridesettings.generated.h",
+            "d:\\palworldsdk\\plugins\\dlss\\source\\dlss\\private\\dlsssettings.cpp",
+            "d:\\palworldsdk\\plugins\\dlss\\source\\dlss\\public\\dlsssettings.h",
+            "d:\\palworldsdk\\plugins\\dlss\\source\\dlss\\public\\edlsspreset.h",
+            "d:\\palworldsdk\\plugins\\dlss\\intermediate\\build\\win64\\unrealgame\\inc\\dlss\\uht\\edlsspreset.generated.h",
+            "d:\\palworldsdk\\plugins\\dlss\\intermediate\\build\\win64\\unrealgame\\inc\\dlss\\uht\\dlsssettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

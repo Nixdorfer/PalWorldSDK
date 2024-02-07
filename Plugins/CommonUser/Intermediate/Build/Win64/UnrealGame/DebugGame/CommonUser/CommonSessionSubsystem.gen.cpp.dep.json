@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\commonuser\\intermediate\\build\\win64\\unrealgame\\inc\\commonuser\\uht\\commonsessionsubsystem.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\palgame\\debuggame\\engine\\sharedpch.engine.nonoptimized.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\commonuser\\intermediate\\build\\win64\\unrealgame\\debuggame\\commonuser\\definitions.commonuser.h",
+            "d:\\palworldsdk\\plugins\\commonuser\\source\\commonuser\\public\\commonsessionsubsystem.h",
+            "d:\\palworldsdk\\plugins\\commonuser\\source\\commonuser\\public\\commonsessiononcreatesessioncomplete_dynamicdelegate.h",
+            "d:\\palworldsdk\\plugins\\commonuser\\source\\commonuser\\public\\onlineresultinformation.h",
+            "d:\\palworldsdk\\plugins\\commonuser\\intermediate\\build\\win64\\unrealgame\\inc\\commonuser\\uht\\onlineresultinformation.generated.h",
+            "d:\\palworldsdk\\plugins\\commonuser\\intermediate\\build\\win64\\unrealgame\\inc\\commonuser\\uht\\commonsessiononcreatesessioncomplete_dynamicdelegate.generated.h",
+            "d:\\palworldsdk\\plugins\\commonuser\\source\\commonuser\\public\\commonsessiononjoinsessioncomplete_dynamicdelegate.h",
+            "d:\\palworldsdk\\plugins\\commonuser\\intermediate\\build\\win64\\unrealgame\\inc\\commonuser\\uht\\commonsessiononjoinsessioncomplete_dynamicdelegate.generated.h",
+            "d:\\palworldsdk\\plugins\\commonuser\\source\\commonuser\\public\\commonsessiononuserrequestedsession_dynamicdelegate.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\optionalfwd.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\palworldsdk\\plugins\\commonuser\\intermediate\\build\\win64\\unrealgame\\inc\\commonuser\\uht\\commonsessiononuserrequestedsession_dynamicdelegate.generated.h",
+            "d:\\palworldsdk\\plugins\\commonuser\\intermediate\\build\\win64\\unrealgame\\inc\\commonuser\\uht\\commonsessionsubsystem.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

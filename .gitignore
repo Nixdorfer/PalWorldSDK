@@ -1,0 +1,12 @@
+/Binaries/
+/Build/
+/DerivedDataCache/
+/Intermediate/
+/Platforms/
+/Saved/
+/Windows/
+
+*.blend1
+*.blend2
+*.blend3
+*.lnk

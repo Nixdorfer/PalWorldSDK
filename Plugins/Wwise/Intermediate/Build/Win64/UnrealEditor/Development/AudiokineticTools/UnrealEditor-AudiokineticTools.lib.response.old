@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AudiokineticTools.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Nix\Desktop\PAL\PalworldModdingKit-main\Intermediate\Build\Win64\PalEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\Nix\Desktop\PAL\PalworldModdingKit-main\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AudiokineticTools\Module.AudiokineticTools.cpp.obj"
+"C:\Users\Nix\Desktop\PAL\PalworldModdingKit-main\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AudiokineticTools\Default.rc2.res"
+/OUT:"C:\Users\Nix\Desktop\PAL\PalworldModdingKit-main\Plugins\Wwise\Intermediate\Build\Win64\UnrealEditor\Development\AudiokineticTools\UnrealEditor-AudiokineticTools.lib"

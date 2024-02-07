@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\palworldsdk\\plugins\\nis\\intermediate\\build\\win64\\unrealeditor\\development\\nisblueprint\\module.nisblueprint.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\palworldsdk\\intermediate\\build\\win64\\paleditor\\development\\engine\\sharedpch.engine.h.pch",
+        "Includes": [
+            "d:\\palworldsdk\\plugins\\nis\\intermediate\\build\\win64\\unrealeditor\\development\\nisblueprint\\definitions.nisblueprint.h",
+            "d:\\palworldsdk\\plugins\\nis\\intermediate\\build\\win64\\unrealeditor\\inc\\nisblueprint\\uht\\nisblueprint.init.gen.cpp",
+            "d:\\palworldsdk\\plugins\\nis\\intermediate\\build\\win64\\unrealeditor\\inc\\nisblueprint\\uht\\nislibrary.gen.cpp",
+            "d:\\palworldsdk\\plugins\\nis\\source\\nisblueprint\\public\\nislibrary.h",
+            "d:\\palworldsdk\\plugins\\nis\\source\\nisblueprint\\public\\unismode.h",
+            "d:\\palworldsdk\\plugins\\nis\\intermediate\\build\\win64\\unrealeditor\\inc\\nisblueprint\\uht\\unismode.generated.h",
+            "d:\\palworldsdk\\plugins\\nis\\intermediate\\build\\win64\\unrealeditor\\inc\\nisblueprint\\uht\\nislibrary.generated.h",
+            "d:\\palworldsdk\\plugins\\nis\\intermediate\\build\\win64\\unrealeditor\\inc\\nisblueprint\\uht\\unismode.gen.cpp",
+            "d:\\palworldsdk\\plugins\\nis\\intermediate\\build\\win64\\unrealeditor\\inc\\nisblueprint\\uht\\unissupport.gen.cpp",
+            "d:\\palworldsdk\\plugins\\nis\\source\\nisblueprint\\public\\unissupport.h",
+            "d:\\palworldsdk\\plugins\\nis\\intermediate\\build\\win64\\unrealeditor\\inc\\nisblueprint\\uht\\unissupport.generated.h",
+            "d:\\palworldsdk\\plugins\\nis\\source\\nisblueprint\\private\\nisblueprintmodule.cpp",
+            "d:\\palworldsdk\\plugins\\nis\\source\\nisblueprint\\private\\nislibrary.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

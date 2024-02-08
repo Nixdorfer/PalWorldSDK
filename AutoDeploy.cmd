@@ -1,7 +1,7 @@
 @echo off
 chcp 65001&cls
 setlocal enabledelayedexpansion
-set projectName=VehicleCraft
+set projectName=YourProjectName
 
 set searchDirs[0]="C:\Program Files (x86)\Steam\steamapps\common"
 set searchDirs[1]=D:\SteamLibrary\steamapps\common
